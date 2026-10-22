@@ -1,0 +1,59 @@
+﻿Item_Name,Category,Unit_Price,Current_Stock,Reorder_Level,Stock_Status,Supplier,Last_Restocked_Date,Expiry_Date,Days_To_Expiry,Expiry_Status
+Coca-Cola 50cl,Beverages,₦500,71,20,OK,Rukpokwu Wholesale Depot,24-Jul-2026,03-Sep-2026,30,OK
+Fanta 50cl,Beverages,₦500,23,10,OK,Niger Delta FMCG Supplies,29-Jul-2026,04-Sep-2026,31,OK
+Sprite 50cl,Beverages,₦500,38,10,OK,Rukpokwu Wholesale Depot,03-Aug-2026,05-Sep-2026,32,OK
+Bigi Cola 50cl,Beverages,₦400,56,25,OK,Niger Delta FMCG Supplies,02-Aug-2026,06-Sep-2026,33,OK
+Pepsi 50cl,Beverages,₦450,18,25,Low Stock,PH Central Distributors,02-Aug-2026,07-Sep-2026,34,OK
+Amstel Malta 33cl,Beverages,₦600,104,30,OK,Eastline Foods & Beverages,25-Jul-2026,08-Sep-2026,35,OK
+Eva Table Water 75cl,Beverages,₦200,16,10,OK,PH Central Distributors,26-Jul-2026,09-Sep-2026,36,OK
+Pure Water Sachet (bag),Beverages,₦300,90,20,OK,Niger Delta FMCG Supplies,02-Aug-2026,10-Sep-2026,37,OK
+Five Alive Juice 1L,Beverages,"₦1,800",44,20,OK,Golden Penny Direct,02-Aug-2026,11-Sep-2026,38,OK
+Mama Gold Rice 5kg,Foodstuff,"₦8,500",19,10,OK,Rukpokwu Wholesale Depot,25-Jul-2026,02-Aug-2026,-2,Expired
+Caprice Rice 5kg,Foodstuff,"₦8,200",30,30,Low Stock,Niger Delta FMCG Supplies,24-Jul-2026,03-Aug-2026,-1,Expired
+Garri (Ijebu) 1 Paint,Foodstuff,"₦2,200",85,25,OK,Eastline Foods & Beverages,25-Jul-2026,04-Sep-2026,31,OK
+Beans (Oloyin) 1 Paint,Foodstuff,"₦3,500",44,20,OK,Rukpokwu Wholesale Depot,31-Jul-2026,25-Aug-2026,21,OK
+Semovita 2kg,Foodstuff,"₦2,600",94,30,OK,Eastline Foods & Beverages,29-Jul-2026,25-Aug-2026,21,OK
+Golden Penny Spaghetti,Foodstuff,₦900,30,20,OK,Niger Delta FMCG Supplies,02-Aug-2026,07-Jul-2026,-28,Expired
+Indomie Noodles (Pack of 40),Foodstuff,"₦5,800",25,25,Low Stock,PH Central Distributors,29-Jul-2026,08-Aug-2026,4,Expiring Soon
+Golden Penny Flour 2kg,Foodstuff,"₦2,400",35,25,OK,Niger Delta FMCG Supplies,26-Jul-2026,08-Aug-2026,4,Expiring Soon
+Kings Vegetable Oil 3L,Foodstuff,"₦7,200",65,20,OK,Eastline Foods & Beverages,25-Jul-2026,10-Aug-2026,6,Expiring Soon
+Groundnut Oil 1L (bottle),Foodstuff,"₦2,800",39,30,OK,Golden Penny Direct,02-Aug-2026,08-Aug-2026,4,Expiring Soon
+Dangote Salt 1kg,Foodstuff,₦500,34,25,OK,Golden Penny Direct,03-Aug-2026,12-Jul-2026,-23,Expired
+St. Louis Sugar 1kg,Foodstuff,"₦1,500",88,30,OK,Eastline Foods & Beverages,30-Jul-2026,13-Aug-2026,9,OK
+Maggi Cubes (Pack),Foodstuff,₦700,14,20,Low Stock,PH Central Distributors,29-Jul-2026,14-Aug-2026,10,OK
+Milo 500g,Dairy & Beverages,"₦3,200",1,30,Low Stock,PH Central Distributors,31-Jul-2026,23-Oct-2026,20-Mar-1900,OK
+Peak Milk Powder 400g,Dairy & Beverages,"₦3,400",89,25,OK,Niger Delta FMCG Supplies,02-Aug-2026,07-Aug-2026,3,Expiring Soon
+Peak Evaporated Milk 170g Tin,Dairy & Beverages,₦650,76,20,OK,Golden Penny Direct,26-Jul-2026,15-Aug-2026,11,OK
+Bournvita 500g,Dairy & Beverages,"₦3,300",45,25,OK,PH Central Distributors,02-Aug-2026,04-Aug-2026,0,Expired
+Cerelac Baby Food 400g,Baby Products,"₦3,600",86,10,OK,PH Central Distributors,01-Aug-2026,09-Aug-2026,5,Expiring Soon
+Agege Bread (Loaf),Bakery,"₦1,200",104,25,OK,Niger Delta FMCG Supplies,25-Jul-2026,11-Aug-2026,7,Expiring Soon
+Eggs (Crate of 30),Bakery/Fresh,"₦3,800",37,30,OK,Eastline Foods & Beverages,27-Jul-2026,19-Aug-2026,15,OK
+Blue Band Butter 250g,Dairy & Beverages,"₦1,600",87,25,OK,Rukpokwu Wholesale Depot,24-Jul-2026,12-Aug-2026,8,OK
+Hollandia Yoghurt 1L,Dairy & Beverages,"₦2,200",30,15,OK,Rukpokwu Wholesale Depot,29-Jul-2026,18-Aug-2026,14,OK
+Dettol Soap,Toiletries,₦650,30,30,Low Stock,Golden Penny Direct,02-Aug-2026,18-Aug-2026,14,OK
+Dudu Osun Soap,Toiletries,₦500,27,30,Low Stock,Niger Delta FMCG Supplies,31-Jul-2026,18-Aug-2026,14,OK
+Sunlight Bar Soap,Toiletries,₦450,8,25,Low Stock,Niger Delta FMCG Supplies,29-Jul-2026,18-Jul-2026,-17,Expired
+Lux Soap,Toiletries,₦550,35,20,OK,Eastline Foods & Beverages,27-Jul-2026,18-Aug-2026,14,OK
+Vaseline Petroleum Jelly 100ml,Toiletries,"₦1,300",36,25,OK,Rukpokwu Wholesale Depot,01-Aug-2026,08-Aug-2026,4,Expiring Soon
+Colgate Toothpaste 120ml,Toiletries,"₦1,100",82,20,OK,Niger Delta FMCG Supplies,01-Aug-2026,18-Aug-2026,14,OK
+Oral-B Toothbrush,Toiletries,₦600,10,10,Low Stock,Golden Penny Direct,26-Jul-2026,07-Aug-2026,3,Expiring Soon
+Always Sanitary Pad (Pack),Toiletries,"₦1,400",19,15,OK,Golden Penny Direct,26-Jul-2026,08-Aug-2026,4,Expiring Soon
+Rose Tissue Paper (Pack of 4),Toiletries,"₦1,500",44,10,OK,Golden Penny Direct,26-Jul-2026,18-Aug-2026,14,OK
+Omo Detergent 1kg,Household,"₦2,200",44,15,OK,Niger Delta FMCG Supplies,26-Jul-2026,18-Aug-2026,14,OK
+Ariel Detergent 1kg,Household,"₦2,300",59,30,OK,PH Central Distributors,25-Jul-2026,18-Aug-2026,14,OK
+Sunlight Detergent Powder 900g,Household,"₦1,900",45,15,OK,Niger Delta FMCG Supplies,31-Jul-2026,18-Aug-2026,14,OK
+Harpic Toilet Cleaner 500ml,Household,"₦1,800",29,25,OK,Golden Penny Direct,03-Aug-2026,08-Jul-2026,-27,Expired
+Dettol Antiseptic 250ml,Household,"₦2,100",103,25,OK,Eastline Foods & Beverages,29-Jul-2026,18-Aug-2026,14,OK
+Ambipur Air Freshener,Household,"₦2,500",67,20,OK,PH Central Distributors,02-Aug-2026,18-Aug-2026,14,OK
+Gala Sausage Roll,Snacks,₦300,10,10,Low Stock,Niger Delta FMCG Supplies,31-Jul-2026,16-Aug-2026,12,OK
+Digestive Biscuits,Snacks,"₦1,200",92,30,OK,Rukpokwu Wholesale Depot,24-Jul-2026,10-Aug-2026,6,Expiring Soon
+Cabin Biscuits (Pack),Snacks,₦200,51,25,OK,Golden Penny Direct,27-Jul-2026,07-Dec-2026,125,OK
+Pringles Chips,Snacks,"₦2,500",61,10,OK,PH Central Distributors,27-Jul-2026,10-Aug-2026,6,Expiring Soon
+Plantain Chips (Pack),Snacks,₦500,19,15,OK,PH Central Distributors,01-Aug-2026,01-Sep-2026,28,OK
+Pampers Diapers (Pack),Baby Products,"₦6,500",91,30,OK,Golden Penny Direct,24-Jul-2026,01-Oct-2026,58,OK
+Baby Wipes (Pack),Baby Products,"₦1,800",32,15,OK,Rukpokwu Wholesale Depot,03-Aug-2026,01-Sep-2026,28,OK
+Frozen Chicken (per kg),Frozen/Provisions,"₦4,500",28,10,OK,PH Central Distributors,28-Jul-2026,18-Aug-2026,14,OK
+Titus Fish (per kg),Frozen/Provisions,"₦3,800",48,10,OK,Golden Penny Direct,26-Jul-2026,06-Aug-2026,2,Expiring Soon
+Titus Sardine (Can),Frozen/Provisions,₦900,47,30,OK,Eastline Foods & Beverages,03-Aug-2026,15-Feb-2027,195,OK
+Nivea Body Lotion 400ml,Beauty,"₦3,500",97,30,OK,Niger Delta FMCG Supplies,28-Jul-2026,05-Aug-2026,1,Expiring Soon
+Nivea Roll-on Deodorant,Beauty,"₦1,900",83,15,OK,Rukpokwu Wholesale Depot,26-Jul-2026,06-Aug-2026,2,Expiring Soon

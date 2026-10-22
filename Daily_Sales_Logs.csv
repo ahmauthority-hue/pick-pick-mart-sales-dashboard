@@ -1,0 +1,875 @@
+﻿Date,Time,Transaction_ID,Item_Name,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,Cashier
+14-Jul-2026,08:04 AM,PPM-20260714-0027,Coca-Cola 50cl,Beverages,3,₦500,"₦1,500",Cash,Ifeanyi A.
+14-Jul-2026,08:14 AM,PPM-20260714-0002,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Transfer,Chidinma E.
+14-Jul-2026,08:14 AM,PPM-20260714-0007,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",Cash,Blessing O.
+14-Jul-2026,08:42 AM,PPM-20260714-0039,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Transfer,Ifeanyi A.
+14-Jul-2026,08:55 AM,PPM-20260714-0038,Gala Sausage Roll,Snacks,1,₦300,₦300,Transfer,Chidinma E.
+14-Jul-2026,09:23 AM,PPM-20260714-0021,Agege Bread (Loaf),Bakery,2,"₦1,200","₦2,400",POS,Ifeanyi A.
+14-Jul-2026,09:42 AM,PPM-20260714-0023,Titus Sardine (Can),Frozen/Provisions,2,₦900,"₦1,800",POS,Chidinma E.
+14-Jul-2026,10:08 AM,PPM-20260714-0001,Sprite 50cl,Beverages,3,₦500,"₦1,500",Cash,Blessing O.
+14-Jul-2026,10:25 AM,PPM-20260714-0034,Pepsi 50cl,Beverages,2,₦450,₦900,Cash,Grace U.
+14-Jul-2026,10:59 AM,PPM-20260714-0042,Fanta 50cl,Beverages,1,₦500,₦500,POS,Chidinma E.
+14-Jul-2026,11:10 AM,PPM-20260714-0018,Omo Detergent 1kg,Household,1,"₦2,200","₦2,200",Cash,Ifeanyi A.
+14-Jul-2026,11:59 AM,PPM-20260714-0009,Golden Penny Spaghetti,Foodstuff,1,₦900,₦900,Transfer,Chidinma E.
+14-Jul-2026,12:22 PM,PPM-20260714-0005,Sprite 50cl,Beverages,1,₦500,₦500,Cash,Blessing O.
+14-Jul-2026,12:29 PM,PPM-20260714-0008,Gala Sausage Roll,Snacks,4,₦300,"₦1,200",POS,Chidinma E.
+14-Jul-2026,12:37 PM,PPM-20260714-0026,Sprite 50cl,Beverages,1,₦500,₦500,Cash,Chidinma E.
+14-Jul-2026,01:06 PM,PPM-20260714-0029,Five Alive Juice 1L,Beverages,2,"₦1,800","₦3,600",POS,Ifeanyi A.
+14-Jul-2026,01:13 PM,PPM-20260714-0024,Mama Gold Rice 5kg,Foodstuff,4,"₦8,500","₦34,000",Transfer,Chidinma E.
+14-Jul-2026,01:17 PM,PPM-20260714-0004,Rose Tissue Paper (Pack of 4),Toiletries,1,"₦1,500","₦1,500",Cash,Ifeanyi A.
+14-Jul-2026,01:17 PM,PPM-20260714-0010,Peak Evaporated Milk 170g Tin,Dairy & Beverages,1,₦650,₦650,Transfer,Chidinma E.
+14-Jul-2026,01:28 PM,PPM-20260714-0003,Lux Soap,Toiletries,3,₦550,"₦1,650",Cash,Blessing O.
+14-Jul-2026,01:55 PM,PPM-20260714-0032,Bigi Cola 50cl,Beverages,1,₦400,₦400,Cash,Blessing O.
+14-Jul-2026,02:05 PM,PPM-20260714-0015,Pure Water Sachet (bag),Beverages,6,₦300,"₦1,800",Cash,Blessing O.
+14-Jul-2026,02:06 PM,PPM-20260714-0019,Titus Sardine (Can),Frozen/Provisions,3,₦900,"₦2,700",Transfer,Chidinma E.
+14-Jul-2026,02:49 PM,PPM-20260714-0020,Bigi Cola 50cl,Beverages,3,₦400,"₦1,200",Transfer,Blessing O.
+14-Jul-2026,02:54 PM,PPM-20260714-0037,Fanta 50cl,Beverages,2,₦500,"₦1,000",Cash,Blessing O.
+14-Jul-2026,03:05 PM,PPM-20260714-0022,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Blessing O.
+14-Jul-2026,05:13 PM,PPM-20260714-0028,Fanta 50cl,Beverages,1,₦500,₦500,Cash,Grace U.
+14-Jul-2026,05:15 PM,PPM-20260714-0040,Frozen Chicken (per kg),Frozen/Provisions,1,"₦4,500","₦4,500",Transfer,Ifeanyi A.
+14-Jul-2026,05:23 PM,PPM-20260714-0025,Lux Soap,Toiletries,1,₦550,₦550,POS,Grace U.
+14-Jul-2026,05:38 PM,PPM-20260714-0016,Bigi Cola 50cl,Beverages,1,₦400,₦400,Transfer,Grace U.
+14-Jul-2026,05:43 PM,PPM-20260714-0030,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",POS,Blessing O.
+14-Jul-2026,06:05 PM,PPM-20260714-0033,Fanta 50cl,Beverages,6,₦500,"₦3,000",POS,Chidinma E.
+14-Jul-2026,06:06 PM,PPM-20260714-0031,Fanta 50cl,Beverages,3,₦500,"₦1,500",Cash,Grace U.
+14-Jul-2026,06:14 PM,PPM-20260714-0011,Dettol Soap,Toiletries,4,₦650,"₦2,600",Cash,Ifeanyi A.
+14-Jul-2026,06:27 PM,PPM-20260714-0014,Oral-B Toothbrush,Toiletries,2,₦600,"₦1,200",Transfer,Ifeanyi A.
+14-Jul-2026,07:00 PM,PPM-20260714-0041,Kings Vegetable Oil 3L,Foodstuff,5,"₦7,200","₦36,000",Transfer,Blessing O.
+14-Jul-2026,07:00 PM,PPM-20260714-0017,Peak Milk Powder 400g,Dairy & Beverages,6,"₦3,400","₦20,400",POS,Ifeanyi A.
+14-Jul-2026,07:29 PM,PPM-20260714-0013,Hollandia Yoghurt 1L,Dairy & Beverages,1,"₦2,200","₦2,200",Cash,Chidinma E.
+14-Jul-2026,07:36 PM,PPM-20260714-0012,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",POS,Chidinma E.
+14-Jul-2026,07:50 PM,PPM-20260714-0035,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Grace U.
+14-Jul-2026,08:24 PM,PPM-20260714-0006,Colgate Toothpaste 120ml,Toiletries,2,"₦1,100","₦2,200",Transfer,Ifeanyi A.
+14-Jul-2026,08:37 PM,PPM-20260714-0036,Bigi Cola 50cl,Beverages,1,₦400,₦400,Transfer,Ifeanyi A.
+15-Jul-2026,07:59 AM,PPM-20260715-0060,Mama Gold Rice 5kg,Foodstuff,3,"₦8,500","₦25,500",Transfer,Chidinma E.
+15-Jul-2026,08:18 AM,PPM-20260715-0075,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",Cash,Ifeanyi A.
+15-Jul-2026,08:55 AM,PPM-20260715-0054,Mama Gold Rice 5kg,Foodstuff,3,"₦8,500","₦25,500",POS,Chidinma E.
+15-Jul-2026,09:16 AM,PPM-20260715-0058,Sprite 50cl,Beverages,6,₦500,"₦3,000",Cash,Grace U.
+15-Jul-2026,09:18 AM,PPM-20260715-0045,Cabin Biscuits (Pack),Snacks,3,₦200,₦600,Cash,Ifeanyi A.
+15-Jul-2026,09:24 AM,PPM-20260715-0076,Cabin Biscuits (Pack),Snacks,1,₦200,₦200,Cash,Chidinma E.
+15-Jul-2026,09:51 AM,PPM-20260715-0052,Baby Wipes (Pack),Baby Products,1,"₦1,800","₦1,800",Cash,Grace U.
+15-Jul-2026,10:15 AM,PPM-20260715-0074,Oral-B Toothbrush,Toiletries,2,₦600,"₦1,200",Transfer,Grace U.
+15-Jul-2026,10:19 AM,PPM-20260715-0067,Sprite 50cl,Beverages,5,₦500,"₦2,500",POS,Chidinma E.
+15-Jul-2026,10:31 AM,PPM-20260715-0046,Pure Water Sachet (bag),Beverages,2,₦300,₦600,POS,Blessing O.
+15-Jul-2026,11:00 AM,PPM-20260715-0047,Sprite 50cl,Beverages,2,₦500,"₦1,000",POS,Ifeanyi A.
+15-Jul-2026,11:24 AM,PPM-20260715-0079,St. Louis Sugar 1kg,Foodstuff,5,"₦1,500","₦7,500",POS,Grace U.
+15-Jul-2026,11:26 AM,PPM-20260715-0062,Vaseline Petroleum Jelly 100ml,Toiletries,1,"₦1,300","₦1,300",Transfer,Ifeanyi A.
+15-Jul-2026,12:28 PM,PPM-20260715-0065,Omo Detergent 1kg,Household,2,"₦2,200","₦4,400",POS,Grace U.
+15-Jul-2026,12:52 PM,PPM-20260715-0055,Pure Water Sachet (bag),Beverages,5,₦300,"₦1,500",POS,Chidinma E.
+15-Jul-2026,12:55 PM,PPM-20260715-0056,Coca-Cola 50cl,Beverages,1,₦500,₦500,POS,Ifeanyi A.
+15-Jul-2026,12:59 PM,PPM-20260715-0053,Coca-Cola 50cl,Beverages,3,₦500,"₦1,500",POS,Chidinma E.
+15-Jul-2026,01:32 PM,PPM-20260715-0059,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",Transfer,Chidinma E.
+15-Jul-2026,01:54 PM,PPM-20260715-0068,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Grace U.
+15-Jul-2026,02:53 PM,PPM-20260715-0073,Eggs (Crate of 30),Bakery/Fresh,3,"₦3,800","₦11,400",Transfer,Chidinma E.
+15-Jul-2026,03:00 PM,PPM-20260715-0064,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",Cash,Grace U.
+15-Jul-2026,03:09 PM,PPM-20260715-0049,Bournvita 500g,Dairy & Beverages,4,"₦3,300","₦13,200",Cash,Ifeanyi A.
+15-Jul-2026,03:19 PM,PPM-20260715-0043,Mama Gold Rice 5kg,Foodstuff,2,"₦8,500","₦17,000",POS,Blessing O.
+15-Jul-2026,03:26 PM,PPM-20260715-0077,Fanta 50cl,Beverages,2,₦500,"₦1,000",Cash,Grace U.
+15-Jul-2026,03:55 PM,PPM-20260715-0051,Dettol Soap,Toiletries,1,₦650,₦650,POS,Chidinma E.
+15-Jul-2026,05:21 PM,PPM-20260715-0061,Semovita 2kg,Foodstuff,1,"₦2,600","₦2,600",Cash,Blessing O.
+15-Jul-2026,05:24 PM,PPM-20260715-0069,Digestive Biscuits,Snacks,2,"₦1,200","₦2,400",Transfer,Chidinma E.
+15-Jul-2026,05:24 PM,PPM-20260715-0063,Cerelac Baby Food 400g,Baby Products,1,"₦3,600","₦3,600",POS,Chidinma E.
+15-Jul-2026,05:29 PM,PPM-20260715-0071,Pure Water Sachet (bag),Beverages,4,₦300,"₦1,200",Transfer,Blessing O.
+15-Jul-2026,05:35 PM,PPM-20260715-0048,Pepsi 50cl,Beverages,2,₦450,₦900,Cash,Chidinma E.
+15-Jul-2026,05:35 PM,PPM-20260715-0072,Kings Vegetable Oil 3L,Foodstuff,4,"₦7,200","₦28,800",Cash,Grace U.
+15-Jul-2026,05:53 PM,PPM-20260715-0057,Beans (Oloyin) 1 Paint,Foodstuff,2,"₦3,500","₦7,000",Cash,Blessing O.
+15-Jul-2026,06:42 PM,PPM-20260715-0066,Omo Detergent 1kg,Household,5,"₦2,200","₦11,000",Cash,Ifeanyi A.
+15-Jul-2026,06:49 PM,PPM-20260715-0070,Hollandia Yoghurt 1L,Dairy & Beverages,1,"₦2,200","₦2,200",Cash,Grace U.
+15-Jul-2026,07:06 PM,PPM-20260715-0044,Dettol Soap,Toiletries,2,₦650,"₦1,300",Cash,Blessing O.
+15-Jul-2026,08:01 PM,PPM-20260715-0078,Golden Penny Spaghetti,Foodstuff,3,₦900,"₦2,700",POS,Grace U.
+15-Jul-2026,08:02 PM,PPM-20260715-0050,Golden Penny Spaghetti,Foodstuff,5,₦900,"₦4,500",Transfer,Chidinma E.
+16-Jul-2026,07:34 AM,PPM-20260716-0085,Five Alive Juice 1L,Beverages,1,"₦1,800","₦1,800",POS,Ifeanyi A.
+16-Jul-2026,08:44 AM,PPM-20260716-0090,Indomie Noodles (Pack of 40),Foodstuff,3,"₦5,800","₦17,400",Transfer,Blessing O.
+16-Jul-2026,09:04 AM,PPM-20260716-0107,Mama Gold Rice 5kg,Foodstuff,4,"₦8,500","₦34,000",Transfer,Blessing O.
+16-Jul-2026,09:08 AM,PPM-20260716-0087,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Chidinma E.
+16-Jul-2026,09:12 AM,PPM-20260716-0102,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Cash,Chidinma E.
+16-Jul-2026,09:13 AM,PPM-20260716-0097,Coca-Cola 50cl,Beverages,4,₦500,"₦2,000",POS,Ifeanyi A.
+16-Jul-2026,10:33 AM,PPM-20260716-0109,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",Transfer,Grace U.
+16-Jul-2026,10:42 AM,PPM-20260716-0111,Titus Fish (per kg),Frozen/Provisions,1,"₦3,800","₦3,800",Cash,Chidinma E.
+16-Jul-2026,11:02 AM,PPM-20260716-0119,Nivea Roll-on Deodorant,Beauty,3,"₦1,900","₦5,700",POS,Grace U.
+16-Jul-2026,11:23 AM,PPM-20260716-0104,Titus Sardine (Can),Frozen/Provisions,4,₦900,"₦3,600",Cash,Chidinma E.
+16-Jul-2026,11:25 AM,PPM-20260716-0100,Golden Penny Flour 2kg,Foodstuff,1,"₦2,400","₦2,400",Cash,Ifeanyi A.
+16-Jul-2026,11:30 AM,PPM-20260716-0106,Sprite 50cl,Beverages,1,₦500,₦500,Cash,Blessing O.
+16-Jul-2026,11:37 AM,PPM-20260716-0089,Omo Detergent 1kg,Household,1,"₦2,200","₦2,200",POS,Grace U.
+16-Jul-2026,11:37 AM,PPM-20260716-0103,Pure Water Sachet (bag),Beverages,3,₦300,₦900,Transfer,Ifeanyi A.
+16-Jul-2026,12:32 PM,PPM-20260716-0092,Beans (Oloyin) 1 Paint,Foodstuff,2,"₦3,500","₦7,000",Cash,Grace U.
+16-Jul-2026,12:38 PM,PPM-20260716-0088,Groundnut Oil 1L (bottle),Foodstuff,1,"₦2,800","₦2,800",POS,Blessing O.
+16-Jul-2026,01:36 PM,PPM-20260716-0110,Mama Gold Rice 5kg,Foodstuff,2,"₦8,500","₦17,000",Cash,Blessing O.
+16-Jul-2026,01:44 PM,PPM-20260716-0112,Cerelac Baby Food 400g,Baby Products,1,"₦3,600","₦3,600",Transfer,Blessing O.
+16-Jul-2026,01:47 PM,PPM-20260716-0101,Dangote Salt 1kg,Foodstuff,2,₦500,"₦1,000",Cash,Grace U.
+16-Jul-2026,02:31 PM,PPM-20260716-0117,Dudu Osun Soap,Toiletries,5,₦500,"₦2,500",Cash,Blessing O.
+16-Jul-2026,02:48 PM,PPM-20260716-0099,Sprite 50cl,Beverages,3,₦500,"₦1,500",POS,Grace U.
+16-Jul-2026,02:58 PM,PPM-20260716-0082,Pampers Diapers (Pack),Baby Products,6,"₦6,500","₦39,000",Transfer,Blessing O.
+16-Jul-2026,03:44 PM,PPM-20260716-0105,Mama Gold Rice 5kg,Foodstuff,6,"₦8,500","₦51,000",Transfer,Grace U.
+16-Jul-2026,04:01 PM,PPM-20260716-0118,Cabin Biscuits (Pack),Snacks,3,₦200,₦600,Cash,Blessing O.
+16-Jul-2026,04:14 PM,PPM-20260716-0080,Oral-B Toothbrush,Toiletries,2,₦600,"₦1,200",Cash,Grace U.
+16-Jul-2026,04:20 PM,PPM-20260716-0095,Groundnut Oil 1L (bottle),Foodstuff,4,"₦2,800","₦11,200",Cash,Blessing O.
+16-Jul-2026,05:29 PM,PPM-20260716-0113,Pure Water Sachet (bag),Beverages,3,₦300,₦900,POS,Ifeanyi A.
+16-Jul-2026,05:51 PM,PPM-20260716-0091,Dudu Osun Soap,Toiletries,1,₦500,₦500,POS,Blessing O.
+16-Jul-2026,05:51 PM,PPM-20260716-0081,St. Louis Sugar 1kg,Foodstuff,1,"₦1,500","₦1,500",POS,Grace U.
+16-Jul-2026,05:59 PM,PPM-20260716-0114,Omo Detergent 1kg,Household,2,"₦2,200","₦4,400",Transfer,Chidinma E.
+16-Jul-2026,06:04 PM,PPM-20260716-0115,Blue Band Butter 250g,Dairy & Beverages,5,"₦1,600","₦8,000",Cash,Ifeanyi A.
+16-Jul-2026,06:24 PM,PPM-20260716-0084,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Grace U.
+16-Jul-2026,06:36 PM,PPM-20260716-0096,Mama Gold Rice 5kg,Foodstuff,2,"₦8,500","₦17,000",POS,Ifeanyi A.
+16-Jul-2026,07:11 PM,PPM-20260716-0083,Fanta 50cl,Beverages,2,₦500,"₦1,000",Cash,Ifeanyi A.
+16-Jul-2026,07:28 PM,PPM-20260716-0116,Agege Bread (Loaf),Bakery,4,"₦1,200","₦4,800",Transfer,Ifeanyi A.
+16-Jul-2026,07:35 PM,PPM-20260716-0098,Mama Gold Rice 5kg,Foodstuff,2,"₦8,500","₦17,000",Transfer,Chidinma E.
+16-Jul-2026,08:02 PM,PPM-20260716-0086,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Cash,Chidinma E.
+16-Jul-2026,08:05 PM,PPM-20260716-0108,Bigi Cola 50cl,Beverages,4,₦400,"₦1,600",Cash,Grace U.
+16-Jul-2026,08:17 PM,PPM-20260716-0094,Indomie Noodles (Pack of 40),Foodstuff,3,"₦5,800","₦17,400",POS,Grace U.
+16-Jul-2026,08:40 PM,PPM-20260716-0093,Harpic Toilet Cleaner 500ml,Household,1,"₦1,800","₦1,800",POS,Chidinma E.
+17-Jul-2026,07:50 AM,PPM-20260717-0169,Hollandia Yoghurt 1L,Dairy & Beverages,1,"₦2,200","₦2,200",Cash,Ifeanyi A.
+17-Jul-2026,07:56 AM,PPM-20260717-0158,Sprite 50cl,Beverages,1,₦500,₦500,Cash,Chidinma E.
+17-Jul-2026,08:10 AM,PPM-20260717-0141,Rose Tissue Paper (Pack of 4),Toiletries,3,"₦1,500","₦4,500",Cash,Blessing O.
+17-Jul-2026,08:13 AM,PPM-20260717-0165,Titus Fish (per kg),Frozen/Provisions,4,"₦3,800","₦15,200",Transfer,Blessing O.
+17-Jul-2026,08:40 AM,PPM-20260717-0126,Digestive Biscuits,Snacks,2,"₦1,200","₦2,400",POS,Chidinma E.
+17-Jul-2026,08:48 AM,PPM-20260717-0155,Sunlight Detergent Powder 900g,Household,2,"₦1,900","₦3,800",POS,Grace U.
+17-Jul-2026,09:05 AM,PPM-20260717-0143,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",POS,Chidinma E.
+17-Jul-2026,09:26 AM,PPM-20260717-0170,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Blessing O.
+17-Jul-2026,09:37 AM,PPM-20260717-0120,Blue Band Butter 250g,Dairy & Beverages,5,"₦1,600","₦8,000",Transfer,Grace U.
+17-Jul-2026,09:44 AM,PPM-20260717-0133,Kings Vegetable Oil 3L,Foodstuff,1,"₦7,200","₦7,200",Transfer,Chidinma E.
+17-Jul-2026,09:59 AM,PPM-20260717-0128,Titus Fish (per kg),Frozen/Provisions,2,"₦3,800","₦7,600",Cash,Ifeanyi A.
+17-Jul-2026,10:35 AM,PPM-20260717-0125,Eggs (Crate of 30),Bakery/Fresh,3,"₦3,800","₦11,400",POS,Grace U.
+17-Jul-2026,10:40 AM,PPM-20260717-0144,Maggi Cubes (Pack),Foodstuff,2,₦700,"₦1,400",Transfer,Blessing O.
+17-Jul-2026,10:49 AM,PPM-20260717-0167,Agege Bread (Loaf),Bakery,4,"₦1,200","₦4,800",POS,Blessing O.
+17-Jul-2026,11:00 AM,PPM-20260717-0131,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",POS,Grace U.
+17-Jul-2026,11:14 AM,PPM-20260717-0140,Pure Water Sachet (bag),Beverages,3,₦300,₦900,Cash,Blessing O.
+17-Jul-2026,11:23 AM,PPM-20260717-0142,Coca-Cola 50cl,Beverages,3,₦500,"₦1,500",Cash,Grace U.
+17-Jul-2026,11:25 AM,PPM-20260717-0122,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",POS,Blessing O.
+17-Jul-2026,11:31 AM,PPM-20260717-0160,Bigi Cola 50cl,Beverages,5,₦400,"₦2,000",Cash,Chidinma E.
+17-Jul-2026,11:34 AM,PPM-20260717-0145,Pringles Chips,Snacks,2,"₦2,500","₦5,000",Cash,Ifeanyi A.
+17-Jul-2026,11:47 AM,PPM-20260717-0152,Colgate Toothpaste 120ml,Toiletries,1,"₦1,100","₦1,100",Cash,Chidinma E.
+17-Jul-2026,12:25 PM,PPM-20260717-0164,Bournvita 500g,Dairy & Beverages,6,"₦3,300","₦19,800",Cash,Blessing O.
+17-Jul-2026,12:30 PM,PPM-20260717-0134,Gala Sausage Roll,Snacks,2,₦300,₦600,POS,Grace U.
+17-Jul-2026,12:32 PM,PPM-20260717-0153,Omo Detergent 1kg,Household,4,"₦2,200","₦8,800",Cash,Chidinma E.
+17-Jul-2026,12:49 PM,PPM-20260717-0123,Kings Vegetable Oil 3L,Foodstuff,1,"₦7,200","₦7,200",POS,Blessing O.
+17-Jul-2026,12:50 PM,PPM-20260717-0156,Titus Sardine (Can),Frozen/Provisions,4,₦900,"₦3,600",Cash,Blessing O.
+17-Jul-2026,01:12 PM,PPM-20260717-0124,Hollandia Yoghurt 1L,Dairy & Beverages,2,"₦2,200","₦4,400",Transfer,Grace U.
+17-Jul-2026,01:14 PM,PPM-20260717-0127,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",POS,Grace U.
+17-Jul-2026,01:15 PM,PPM-20260717-0147,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Transfer,Ifeanyi A.
+17-Jul-2026,01:15 PM,PPM-20260717-0163,Coca-Cola 50cl,Beverages,1,₦500,₦500,Transfer,Ifeanyi A.
+17-Jul-2026,01:20 PM,PPM-20260717-0121,Titus Sardine (Can),Frozen/Provisions,2,₦900,"₦1,800",Cash,Chidinma E.
+17-Jul-2026,01:21 PM,PPM-20260717-0132,Gala Sausage Roll,Snacks,2,₦300,₦600,POS,Grace U.
+17-Jul-2026,01:29 PM,PPM-20260717-0129,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",Cash,Chidinma E.
+17-Jul-2026,01:44 PM,PPM-20260717-0159,Blue Band Butter 250g,Dairy & Beverages,2,"₦1,600","₦3,200",Transfer,Blessing O.
+17-Jul-2026,01:51 PM,PPM-20260717-0154,Mama Gold Rice 5kg,Foodstuff,4,"₦8,500","₦34,000",POS,Ifeanyi A.
+17-Jul-2026,02:06 PM,PPM-20260717-0171,Dangote Salt 1kg,Foodstuff,3,₦500,"₦1,500",Transfer,Blessing O.
+17-Jul-2026,04:39 PM,PPM-20260717-0150,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",POS,Chidinma E.
+17-Jul-2026,05:19 PM,PPM-20260717-0172,Vaseline Petroleum Jelly 100ml,Toiletries,5,"₦1,300","₦6,500",Transfer,Blessing O.
+17-Jul-2026,05:19 PM,PPM-20260717-0151,Eggs (Crate of 30),Bakery/Fresh,5,"₦3,800","₦19,000",Transfer,Ifeanyi A.
+17-Jul-2026,05:37 PM,PPM-20260717-0157,Kings Vegetable Oil 3L,Foodstuff,3,"₦7,200","₦21,600",POS,Ifeanyi A.
+17-Jul-2026,05:54 PM,PPM-20260717-0138,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",POS,Grace U.
+17-Jul-2026,06:09 PM,PPM-20260717-0135,Golden Penny Spaghetti,Foodstuff,3,₦900,"₦2,700",POS,Chidinma E.
+17-Jul-2026,06:39 PM,PPM-20260717-0162,Digestive Biscuits,Snacks,3,"₦1,200","₦3,600",POS,Ifeanyi A.
+17-Jul-2026,06:57 PM,PPM-20260717-0149,Plantain Chips (Pack),Snacks,3,₦500,"₦1,500",POS,Chidinma E.
+17-Jul-2026,07:09 PM,PPM-20260717-0137,Coca-Cola 50cl,Beverages,1,₦500,₦500,Transfer,Ifeanyi A.
+17-Jul-2026,07:31 PM,PPM-20260717-0139,Titus Sardine (Can),Frozen/Provisions,2,₦900,"₦1,800",Transfer,Blessing O.
+17-Jul-2026,07:55 PM,PPM-20260717-0130,Pampers Diapers (Pack),Baby Products,2,"₦6,500","₦13,000",Cash,Grace U.
+17-Jul-2026,07:55 PM,PPM-20260717-0136,Maggi Cubes (Pack),Foodstuff,2,₦700,"₦1,400",Transfer,Grace U.
+17-Jul-2026,08:34 PM,PPM-20260717-0168,Mama Gold Rice 5kg,Foodstuff,6,"₦8,500","₦51,000",POS,Blessing O.
+17-Jul-2026,08:42 PM,PPM-20260717-0148,Nivea Roll-on Deodorant,Beauty,1,"₦1,900","₦1,900",Cash,Blessing O.
+17-Jul-2026,08:44 PM,PPM-20260717-0146,Nivea Body Lotion 400ml,Beauty,1,"₦3,500","₦3,500",Transfer,Ifeanyi A.
+17-Jul-2026,08:44 PM,PPM-20260717-0161,Golden Penny Spaghetti,Foodstuff,1,₦900,₦900,Transfer,Chidinma E.
+17-Jul-2026,08:50 PM,PPM-20260717-0166,Fanta 50cl,Beverages,1,₦500,₦500,Cash,Chidinma E.
+18-Jul-2026,08:01 AM,PPM-20260718-0195,Fanta 50cl,Beverages,4,₦500,"₦2,000",POS,Ifeanyi A.
+18-Jul-2026,08:35 AM,PPM-20260718-0214,Bigi Cola 50cl,Beverages,3,₦400,"₦1,200",Transfer,Ifeanyi A.
+18-Jul-2026,08:47 AM,PPM-20260718-0187,Bigi Cola 50cl,Beverages,2,₦400,₦800,Cash,Grace U.
+18-Jul-2026,09:03 AM,PPM-20260718-0208,Garri (Ijebu) 1 Paint,Foodstuff,2,"₦2,200","₦4,400",Cash,Ifeanyi A.
+18-Jul-2026,09:08 AM,PPM-20260718-0217,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",Cash,Blessing O.
+18-Jul-2026,09:09 AM,PPM-20260718-0186,Pampers Diapers (Pack),Baby Products,1,"₦6,500","₦6,500",POS,Blessing O.
+18-Jul-2026,09:38 AM,PPM-20260718-0201,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Blessing O.
+18-Jul-2026,09:44 AM,PPM-20260718-0219,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Transfer,Chidinma E.
+18-Jul-2026,10:05 AM,PPM-20260718-0227,Fanta 50cl,Beverages,2,₦500,"₦1,000",Cash,Ifeanyi A.
+18-Jul-2026,10:15 AM,PPM-20260718-0221,Always Sanitary Pad (Pack),Toiletries,3,"₦1,400","₦4,200",POS,Grace U.
+18-Jul-2026,10:37 AM,PPM-20260718-0198,Sprite 50cl,Beverages,4,₦500,"₦2,000",Transfer,Grace U.
+18-Jul-2026,10:49 AM,PPM-20260718-0199,Gala Sausage Roll,Snacks,3,₦300,₦900,Cash,Blessing O.
+18-Jul-2026,11:07 AM,PPM-20260718-0193,Omo Detergent 1kg,Household,3,"₦2,200","₦6,600",Transfer,Grace U.
+18-Jul-2026,11:20 AM,PPM-20260718-0188,Kings Vegetable Oil 3L,Foodstuff,1,"₦7,200","₦7,200",POS,Blessing O.
+18-Jul-2026,11:32 AM,PPM-20260718-0175,Golden Penny Spaghetti,Foodstuff,2,₦900,"₦1,800",Transfer,Blessing O.
+18-Jul-2026,11:57 AM,PPM-20260718-0225,Mama Gold Rice 5kg,Foodstuff,3,"₦8,500","₦25,500",Cash,Grace U.
+18-Jul-2026,12:09 PM,PPM-20260718-0178,Indomie Noodles (Pack of 40),Foodstuff,3,"₦5,800","₦17,400",POS,Blessing O.
+18-Jul-2026,12:23 PM,PPM-20260718-0216,Blue Band Butter 250g,Dairy & Beverages,2,"₦1,600","₦3,200",Cash,Chidinma E.
+18-Jul-2026,12:46 PM,PPM-20260718-0220,Vaseline Petroleum Jelly 100ml,Toiletries,1,"₦1,300","₦1,300",POS,Ifeanyi A.
+18-Jul-2026,12:58 PM,PPM-20260718-0210,Peak Milk Powder 400g,Dairy & Beverages,2,"₦3,400","₦6,800",Transfer,Ifeanyi A.
+18-Jul-2026,01:02 PM,PPM-20260718-0205,Beans (Oloyin) 1 Paint,Foodstuff,1,"₦3,500","₦3,500",Transfer,Ifeanyi A.
+18-Jul-2026,01:06 PM,PPM-20260718-0173,Nivea Roll-on Deodorant,Beauty,4,"₦1,900","₦7,600",POS,Grace U.
+18-Jul-2026,01:10 PM,PPM-20260718-0223,Omo Detergent 1kg,Household,2,"₦2,200","₦4,400",Cash,Chidinma E.
+18-Jul-2026,01:17 PM,PPM-20260718-0190,Hollandia Yoghurt 1L,Dairy & Beverages,2,"₦2,200","₦4,400",POS,Blessing O.
+18-Jul-2026,01:19 PM,PPM-20260718-0204,Bigi Cola 50cl,Beverages,1,₦400,₦400,Cash,Blessing O.
+18-Jul-2026,01:23 PM,PPM-20260718-0224,Gala Sausage Roll,Snacks,1,₦300,₦300,POS,Blessing O.
+18-Jul-2026,01:47 PM,PPM-20260718-0179,Sprite 50cl,Beverages,1,₦500,₦500,Transfer,Chidinma E.
+18-Jul-2026,01:58 PM,PPM-20260718-0181,Gala Sausage Roll,Snacks,5,₦300,"₦1,500",Cash,Ifeanyi A.
+18-Jul-2026,02:48 PM,PPM-20260718-0202,Amstel Malta 33cl,Beverages,3,₦600,"₦1,800",POS,Grace U.
+18-Jul-2026,03:07 PM,PPM-20260718-0183,Gala Sausage Roll,Snacks,1,₦300,₦300,Cash,Chidinma E.
+18-Jul-2026,03:13 PM,PPM-20260718-0182,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",POS,Chidinma E.
+18-Jul-2026,03:21 PM,PPM-20260718-0180,Cerelac Baby Food 400g,Baby Products,2,"₦3,600","₦7,200",Cash,Ifeanyi A.
+18-Jul-2026,04:00 PM,PPM-20260718-0192,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Chidinma E.
+18-Jul-2026,04:04 PM,PPM-20260718-0174,Fanta 50cl,Beverages,1,₦500,₦500,Cash,Ifeanyi A.
+18-Jul-2026,04:21 PM,PPM-20260718-0211,Dettol Soap,Toiletries,1,₦650,₦650,Cash,Grace U.
+18-Jul-2026,05:01 PM,PPM-20260718-0185,Eggs (Crate of 30),Bakery/Fresh,3,"₦3,800","₦11,400",Cash,Ifeanyi A.
+18-Jul-2026,05:02 PM,PPM-20260718-0209,Nivea Body Lotion 400ml,Beauty,1,"₦3,500","₦3,500",POS,Grace U.
+18-Jul-2026,05:26 PM,PPM-20260718-0196,Agege Bread (Loaf),Bakery,2,"₦1,200","₦2,400",Cash,Blessing O.
+18-Jul-2026,05:32 PM,PPM-20260718-0194,Amstel Malta 33cl,Beverages,1,₦600,₦600,POS,Ifeanyi A.
+18-Jul-2026,05:36 PM,PPM-20260718-0222,Pringles Chips,Snacks,1,"₦2,500","₦2,500",Transfer,Ifeanyi A.
+18-Jul-2026,05:37 PM,PPM-20260718-0191,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",Transfer,Ifeanyi A.
+18-Jul-2026,05:39 PM,PPM-20260718-0203,Dettol Soap,Toiletries,4,₦650,"₦2,600",POS,Ifeanyi A.
+18-Jul-2026,05:50 PM,PPM-20260718-0228,Baby Wipes (Pack),Baby Products,4,"₦1,800","₦7,200",Cash,Ifeanyi A.
+18-Jul-2026,05:58 PM,PPM-20260718-0212,Mama Gold Rice 5kg,Foodstuff,3,"₦8,500","₦25,500",POS,Ifeanyi A.
+18-Jul-2026,06:02 PM,PPM-20260718-0207,Agege Bread (Loaf),Bakery,5,"₦1,200","₦6,000",POS,Chidinma E.
+18-Jul-2026,06:03 PM,PPM-20260718-0189,Digestive Biscuits,Snacks,1,"₦1,200","₦1,200",Cash,Grace U.
+18-Jul-2026,06:22 PM,PPM-20260718-0200,Peak Milk Powder 400g,Dairy & Beverages,1,"₦3,400","₦3,400",POS,Chidinma E.
+18-Jul-2026,06:25 PM,PPM-20260718-0177,Cabin Biscuits (Pack),Snacks,2,₦200,₦400,POS,Ifeanyi A.
+18-Jul-2026,06:33 PM,PPM-20260718-0218,Maggi Cubes (Pack),Foodstuff,2,₦700,"₦1,400",POS,Chidinma E.
+18-Jul-2026,06:46 PM,PPM-20260718-0176,Gala Sausage Roll,Snacks,3,₦300,₦900,Cash,Grace U.
+18-Jul-2026,06:47 PM,PPM-20260718-0215,Harpic Toilet Cleaner 500ml,Household,3,"₦1,800","₦5,400",POS,Blessing O.
+18-Jul-2026,06:56 PM,PPM-20260718-0226,Sprite 50cl,Beverages,5,₦500,"₦2,500",POS,Grace U.
+18-Jul-2026,07:19 PM,PPM-20260718-0213,Fanta 50cl,Beverages,3,₦500,"₦1,500",POS,Grace U.
+18-Jul-2026,07:39 PM,PPM-20260718-0206,Fanta 50cl,Beverages,4,₦500,"₦2,000",Transfer,Grace U.
+18-Jul-2026,08:29 PM,PPM-20260718-0197,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,POS,Ifeanyi A.
+18-Jul-2026,08:52 PM,PPM-20260718-0184,Sunlight Detergent Powder 900g,Household,4,"₦1,900","₦7,600",Transfer,Blessing O.
+19-Jul-2026,07:22 AM,PPM-20260719-0233,Lux Soap,Toiletries,1,₦550,₦550,Transfer,Chidinma E.
+19-Jul-2026,08:41 AM,PPM-20260719-0241,Mama Gold Rice 5kg,Foodstuff,4,"₦8,500","₦34,000",Cash,Ifeanyi A.
+19-Jul-2026,08:42 AM,PPM-20260719-0247,Eggs (Crate of 30),Bakery/Fresh,3,"₦3,800","₦11,400",Transfer,Chidinma E.
+19-Jul-2026,08:43 AM,PPM-20260719-0254,Pringles Chips,Snacks,2,"₦2,500","₦5,000",POS,Ifeanyi A.
+19-Jul-2026,09:08 AM,PPM-20260719-0238,Titus Sardine (Can),Frozen/Provisions,2,₦900,"₦1,800",POS,Grace U.
+19-Jul-2026,09:08 AM,PPM-20260719-0253,Dudu Osun Soap,Toiletries,6,₦500,"₦3,000",Cash,Chidinma E.
+19-Jul-2026,09:12 AM,PPM-20260719-0256,Omo Detergent 1kg,Household,2,"₦2,200","₦4,400",Cash,Grace U.
+19-Jul-2026,09:15 AM,PPM-20260719-0231,Omo Detergent 1kg,Household,1,"₦2,200","₦2,200",Transfer,Grace U.
+19-Jul-2026,09:46 AM,PPM-20260719-0230,Coca-Cola 50cl,Beverages,1,₦500,₦500,Transfer,Blessing O.
+19-Jul-2026,11:19 AM,PPM-20260719-0255,Sunlight Bar Soap,Toiletries,2,₦450,₦900,Cash,Chidinma E.
+19-Jul-2026,12:36 PM,PPM-20260719-0249,Pure Water Sachet (bag),Beverages,2,₦300,₦600,Transfer,Grace U.
+19-Jul-2026,12:41 PM,PPM-20260719-0237,Bigi Cola 50cl,Beverages,1,₦400,₦400,POS,Grace U.
+19-Jul-2026,12:51 PM,PPM-20260719-0257,Coca-Cola 50cl,Beverages,2,₦500,"₦1,000",Cash,Blessing O.
+19-Jul-2026,01:24 PM,PPM-20260719-0242,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",POS,Grace U.
+19-Jul-2026,01:45 PM,PPM-20260719-0245,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",Cash,Grace U.
+19-Jul-2026,02:34 PM,PPM-20260719-0232,Fanta 50cl,Beverages,4,₦500,"₦2,000",Transfer,Chidinma E.
+19-Jul-2026,03:16 PM,PPM-20260719-0240,Milo 500g,Dairy & Beverages,6,"₦3,200","₦19,200",POS,Chidinma E.
+19-Jul-2026,03:37 PM,PPM-20260719-0260,Bigi Cola 50cl,Beverages,4,₦400,"₦1,600",POS,Chidinma E.
+19-Jul-2026,04:23 PM,PPM-20260719-0235,Golden Penny Spaghetti,Foodstuff,2,₦900,"₦1,800",POS,Ifeanyi A.
+19-Jul-2026,04:50 PM,PPM-20260719-0248,Titus Fish (per kg),Frozen/Provisions,1,"₦3,800","₦3,800",Cash,Blessing O.
+19-Jul-2026,05:28 PM,PPM-20260719-0229,Dudu Osun Soap,Toiletries,1,₦500,₦500,Cash,Blessing O.
+19-Jul-2026,05:30 PM,PPM-20260719-0258,Fanta 50cl,Beverages,1,₦500,₦500,Transfer,Grace U.
+19-Jul-2026,05:40 PM,PPM-20260719-0236,Omo Detergent 1kg,Household,1,"₦2,200","₦2,200",POS,Ifeanyi A.
+19-Jul-2026,06:17 PM,PPM-20260719-0243,Dudu Osun Soap,Toiletries,1,₦500,₦500,Cash,Grace U.
+19-Jul-2026,06:34 PM,PPM-20260719-0244,Fanta 50cl,Beverages,2,₦500,"₦1,000",Cash,Blessing O.
+19-Jul-2026,06:36 PM,PPM-20260719-0250,Titus Fish (per kg),Frozen/Provisions,1,"₦3,800","₦3,800",Transfer,Grace U.
+19-Jul-2026,06:45 PM,PPM-20260719-0252,Plantain Chips (Pack),Snacks,1,₦500,₦500,Cash,Ifeanyi A.
+19-Jul-2026,06:56 PM,PPM-20260719-0239,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Ifeanyi A.
+19-Jul-2026,07:22 PM,PPM-20260719-0246,Beans (Oloyin) 1 Paint,Foodstuff,1,"₦3,500","₦3,500",POS,Ifeanyi A.
+19-Jul-2026,08:01 PM,PPM-20260719-0251,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",Cash,Grace U.
+19-Jul-2026,08:04 PM,PPM-20260719-0234,Dettol Soap,Toiletries,1,₦650,₦650,Transfer,Blessing O.
+19-Jul-2026,08:41 PM,PPM-20260719-0259,Dettol Antiseptic 250ml,Household,1,"₦2,100","₦2,100",Transfer,Ifeanyi A.
+20-Jul-2026,08:08 AM,PPM-20260720-0289,Gala Sausage Roll,Snacks,3,₦300,₦900,Cash,Ifeanyi A.
+20-Jul-2026,08:15 AM,PPM-20260720-0270,Rose Tissue Paper (Pack of 4),Toiletries,2,"₦1,500","₦3,000",Cash,Grace U.
+20-Jul-2026,09:57 AM,PPM-20260720-0281,Sunlight Detergent Powder 900g,Household,2,"₦1,900","₦3,800",Cash,Ifeanyi A.
+20-Jul-2026,10:35 AM,PPM-20260720-0292,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",Cash,Ifeanyi A.
+20-Jul-2026,10:51 AM,PPM-20260720-0267,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",Transfer,Grace U.
+20-Jul-2026,11:24 AM,PPM-20260720-0271,Five Alive Juice 1L,Beverages,1,"₦1,800","₦1,800",Transfer,Chidinma E.
+20-Jul-2026,11:39 AM,PPM-20260720-0278,Maggi Cubes (Pack),Foodstuff,3,₦700,"₦2,100",Transfer,Chidinma E.
+20-Jul-2026,12:11 PM,PPM-20260720-0290,Nivea Roll-on Deodorant,Beauty,2,"₦1,900","₦3,800",POS,Ifeanyi A.
+20-Jul-2026,12:33 PM,PPM-20260720-0262,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",Cash,Blessing O.
+20-Jul-2026,01:15 PM,PPM-20260720-0274,Sprite 50cl,Beverages,1,₦500,₦500,Transfer,Blessing O.
+20-Jul-2026,01:30 PM,PPM-20260720-0268,Fanta 50cl,Beverages,1,₦500,₦500,Cash,Chidinma E.
+20-Jul-2026,01:40 PM,PPM-20260720-0266,Blue Band Butter 250g,Dairy & Beverages,3,"₦1,600","₦4,800",Transfer,Ifeanyi A.
+20-Jul-2026,01:45 PM,PPM-20260720-0298,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",Cash,Chidinma E.
+20-Jul-2026,02:02 PM,PPM-20260720-0280,Pure Water Sachet (bag),Beverages,2,₦300,₦600,Cash,Ifeanyi A.
+20-Jul-2026,02:31 PM,PPM-20260720-0273,Rose Tissue Paper (Pack of 4),Toiletries,2,"₦1,500","₦3,000",Cash,Blessing O.
+20-Jul-2026,03:08 PM,PPM-20260720-0263,Five Alive Juice 1L,Beverages,2,"₦1,800","₦3,600",Cash,Blessing O.
+20-Jul-2026,03:15 PM,PPM-20260720-0297,Bigi Cola 50cl,Beverages,2,₦400,₦800,POS,Chidinma E.
+20-Jul-2026,03:23 PM,PPM-20260720-0277,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Grace U.
+20-Jul-2026,03:44 PM,PPM-20260720-0287,Harpic Toilet Cleaner 500ml,Household,1,"₦1,800","₦1,800",Cash,Grace U.
+20-Jul-2026,03:57 PM,PPM-20260720-0294,Mama Gold Rice 5kg,Foodstuff,2,"₦8,500","₦17,000",POS,Chidinma E.
+20-Jul-2026,04:39 PM,PPM-20260720-0286,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",POS,Chidinma E.
+20-Jul-2026,05:22 PM,PPM-20260720-0295,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Transfer,Ifeanyi A.
+20-Jul-2026,05:26 PM,PPM-20260720-0288,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",POS,Grace U.
+20-Jul-2026,05:31 PM,PPM-20260720-0293,Omo Detergent 1kg,Household,3,"₦2,200","₦6,600",Transfer,Ifeanyi A.
+20-Jul-2026,05:44 PM,PPM-20260720-0284,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",Cash,Grace U.
+20-Jul-2026,06:01 PM,PPM-20260720-0265,Gala Sausage Roll,Snacks,2,₦300,₦600,Cash,Ifeanyi A.
+20-Jul-2026,06:17 PM,PPM-20260720-0296,Oral-B Toothbrush,Toiletries,1,₦600,₦600,Transfer,Ifeanyi A.
+20-Jul-2026,06:19 PM,PPM-20260720-0282,Pepsi 50cl,Beverages,6,₦450,"₦2,700",Cash,Grace U.
+20-Jul-2026,06:21 PM,PPM-20260720-0279,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,POS,Chidinma E.
+20-Jul-2026,06:23 PM,PPM-20260720-0283,Sunlight Bar Soap,Toiletries,1,₦450,₦450,POS,Grace U.
+20-Jul-2026,06:33 PM,PPM-20260720-0261,Maggi Cubes (Pack),Foodstuff,4,₦700,"₦2,800",Cash,Chidinma E.
+20-Jul-2026,06:55 PM,PPM-20260720-0269,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",POS,Chidinma E.
+20-Jul-2026,06:59 PM,PPM-20260720-0272,Titus Sardine (Can),Frozen/Provisions,5,₦900,"₦4,500",POS,Chidinma E.
+20-Jul-2026,07:09 PM,PPM-20260720-0264,Maggi Cubes (Pack),Foodstuff,1,₦700,₦700,POS,Ifeanyi A.
+20-Jul-2026,07:41 PM,PPM-20260720-0275,Fanta 50cl,Beverages,2,₦500,"₦1,000",Transfer,Blessing O.
+20-Jul-2026,07:43 PM,PPM-20260720-0291,Bournvita 500g,Dairy & Beverages,3,"₦3,300","₦9,900",POS,Ifeanyi A.
+20-Jul-2026,07:46 PM,PPM-20260720-0276,Gala Sausage Roll,Snacks,2,₦300,₦600,POS,Ifeanyi A.
+20-Jul-2026,08:37 PM,PPM-20260720-0285,Mama Gold Rice 5kg,Foodstuff,3,"₦8,500","₦25,500",Cash,Blessing O.
+21-Jul-2026,08:29 AM,PPM-20260721-0318,Maggi Cubes (Pack),Foodstuff,2,₦700,"₦1,400",POS,Blessing O.
+21-Jul-2026,08:38 AM,PPM-20260721-0328,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Blessing O.
+21-Jul-2026,08:57 AM,PPM-20260721-0320,Dudu Osun Soap,Toiletries,2,₦500,"₦1,000",POS,Grace U.
+21-Jul-2026,09:14 AM,PPM-20260721-0324,Nivea Roll-on Deodorant,Beauty,1,"₦1,900","₦1,900",Cash,Blessing O.
+21-Jul-2026,09:41 AM,PPM-20260721-0299,Titus Sardine (Can),Frozen/Provisions,6,₦900,"₦5,400",POS,Grace U.
+21-Jul-2026,09:54 AM,PPM-20260721-0307,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",POS,Grace U.
+21-Jul-2026,10:11 AM,PPM-20260721-0306,Pepsi 50cl,Beverages,2,₦450,₦900,POS,Ifeanyi A.
+21-Jul-2026,10:42 AM,PPM-20260721-0310,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Transfer,Chidinma E.
+21-Jul-2026,10:58 AM,PPM-20260721-0330,Bigi Cola 50cl,Beverages,6,₦400,"₦2,400",Transfer,Ifeanyi A.
+21-Jul-2026,11:59 AM,PPM-20260721-0326,Five Alive Juice 1L,Beverages,1,"₦1,800","₦1,800",POS,Blessing O.
+21-Jul-2026,12:14 PM,PPM-20260721-0312,Eggs (Crate of 30),Bakery/Fresh,5,"₦3,800","₦19,000",POS,Grace U.
+21-Jul-2026,12:33 PM,PPM-20260721-0316,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Cash,Chidinma E.
+21-Jul-2026,12:58 PM,PPM-20260721-0315,Peak Milk Powder 400g,Dairy & Beverages,2,"₦3,400","₦6,800",Cash,Chidinma E.
+21-Jul-2026,01:17 PM,PPM-20260721-0309,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Blessing O.
+21-Jul-2026,01:34 PM,PPM-20260721-0329,Five Alive Juice 1L,Beverages,1,"₦1,800","₦1,800",POS,Blessing O.
+21-Jul-2026,01:58 PM,PPM-20260721-0322,Golden Penny Spaghetti,Foodstuff,4,₦900,"₦3,600",Transfer,Blessing O.
+21-Jul-2026,02:17 PM,PPM-20260721-0305,Cabin Biscuits (Pack),Snacks,1,₦200,₦200,POS,Ifeanyi A.
+21-Jul-2026,02:41 PM,PPM-20260721-0323,Dettol Soap,Toiletries,3,₦650,"₦1,950",Cash,Chidinma E.
+21-Jul-2026,04:26 PM,PPM-20260721-0313,Bigi Cola 50cl,Beverages,3,₦400,"₦1,200",Transfer,Grace U.
+21-Jul-2026,04:59 PM,PPM-20260721-0327,Coca-Cola 50cl,Beverages,3,₦500,"₦1,500",POS,Chidinma E.
+21-Jul-2026,05:11 PM,PPM-20260721-0308,Milo 500g,Dairy & Beverages,1,"₦3,200","₦3,200",Transfer,Chidinma E.
+21-Jul-2026,05:27 PM,PPM-20260721-0325,Titus Sardine (Can),Frozen/Provisions,2,₦900,"₦1,800",Transfer,Chidinma E.
+21-Jul-2026,06:37 PM,PPM-20260721-0319,Indomie Noodles (Pack of 40),Foodstuff,4,"₦5,800","₦23,200",Cash,Ifeanyi A.
+21-Jul-2026,06:48 PM,PPM-20260721-0314,Rose Tissue Paper (Pack of 4),Toiletries,4,"₦1,500","₦6,000",POS,Blessing O.
+21-Jul-2026,06:49 PM,PPM-20260721-0321,Coca-Cola 50cl,Beverages,2,₦500,"₦1,000",POS,Grace U.
+21-Jul-2026,06:54 PM,PPM-20260721-0301,Blue Band Butter 250g,Dairy & Beverages,1,"₦1,600","₦1,600",Cash,Chidinma E.
+21-Jul-2026,07:02 PM,PPM-20260721-0302,Indomie Noodles (Pack of 40),Foodstuff,4,"₦5,800","₦23,200",Transfer,Grace U.
+21-Jul-2026,07:18 PM,PPM-20260721-0303,Eva Table Water 75cl,Beverages,3,₦200,₦600,Cash,Ifeanyi A.
+21-Jul-2026,07:28 PM,PPM-20260721-0317,Lux Soap,Toiletries,2,₦550,"₦1,100",Cash,Chidinma E.
+21-Jul-2026,07:45 PM,PPM-20260721-0311,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",Cash,Blessing O.
+21-Jul-2026,08:18 PM,PPM-20260721-0304,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",POS,Grace U.
+21-Jul-2026,08:20 PM,PPM-20260721-0300,St. Louis Sugar 1kg,Foodstuff,1,"₦1,500","₦1,500",Transfer,Blessing O.
+22-Jul-2026,08:33 AM,PPM-20260722-0357,Agege Bread (Loaf),Bakery,4,"₦1,200","₦4,800",Cash,Chidinma E.
+22-Jul-2026,08:52 AM,PPM-20260722-0348,Peak Milk Powder 400g,Dairy & Beverages,4,"₦3,400","₦13,600",Cash,Blessing O.
+22-Jul-2026,08:59 AM,PPM-20260722-0359,Pringles Chips,Snacks,2,"₦2,500","₦5,000",Cash,Chidinma E.
+22-Jul-2026,09:31 AM,PPM-20260722-0356,Fanta 50cl,Beverages,1,₦500,₦500,Transfer,Ifeanyi A.
+22-Jul-2026,09:34 AM,PPM-20260722-0334,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",Cash,Chidinma E.
+22-Jul-2026,09:34 AM,PPM-20260722-0347,Colgate Toothpaste 120ml,Toiletries,1,"₦1,100","₦1,100",Cash,Blessing O.
+22-Jul-2026,09:37 AM,PPM-20260722-0365,Cerelac Baby Food 400g,Baby Products,1,"₦3,600","₦3,600",Transfer,Ifeanyi A.
+22-Jul-2026,10:13 AM,PPM-20260722-0336,Cerelac Baby Food 400g,Baby Products,1,"₦3,600","₦3,600",Transfer,Grace U.
+22-Jul-2026,10:20 AM,PPM-20260722-0343,Rose Tissue Paper (Pack of 4),Toiletries,1,"₦1,500","₦1,500",Cash,Chidinma E.
+22-Jul-2026,10:45 AM,PPM-20260722-0349,Indomie Noodles (Pack of 40),Foodstuff,4,"₦5,800","₦23,200",Cash,Grace U.
+22-Jul-2026,11:58 AM,PPM-20260722-0339,Pure Water Sachet (bag),Beverages,5,₦300,"₦1,500",Cash,Chidinma E.
+22-Jul-2026,12:18 PM,PPM-20260722-0341,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",Transfer,Ifeanyi A.
+22-Jul-2026,12:53 PM,PPM-20260722-0345,Bigi Cola 50cl,Beverages,1,₦400,₦400,Transfer,Ifeanyi A.
+22-Jul-2026,01:01 PM,PPM-20260722-0351,Coca-Cola 50cl,Beverages,2,₦500,"₦1,000",POS,Ifeanyi A.
+22-Jul-2026,01:15 PM,PPM-20260722-0354,Fanta 50cl,Beverages,5,₦500,"₦2,500",Cash,Blessing O.
+22-Jul-2026,03:17 PM,PPM-20260722-0358,Pringles Chips,Snacks,3,"₦2,500","₦7,500",POS,Ifeanyi A.
+22-Jul-2026,03:37 PM,PPM-20260722-0344,Oral-B Toothbrush,Toiletries,1,₦600,₦600,POS,Ifeanyi A.
+22-Jul-2026,04:16 PM,PPM-20260722-0353,Peak Milk Powder 400g,Dairy & Beverages,1,"₦3,400","₦3,400",Transfer,Grace U.
+22-Jul-2026,04:50 PM,PPM-20260722-0364,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,Transfer,Ifeanyi A.
+22-Jul-2026,05:12 PM,PPM-20260722-0337,Gala Sausage Roll,Snacks,1,₦300,₦300,Cash,Blessing O.
+22-Jul-2026,05:14 PM,PPM-20260722-0331,Caprice Rice 5kg,Foodstuff,1,"₦8,200","₦8,200",Cash,Blessing O.
+22-Jul-2026,05:24 PM,PPM-20260722-0333,Fanta 50cl,Beverages,1,₦500,₦500,Transfer,Grace U.
+22-Jul-2026,05:25 PM,PPM-20260722-0360,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",Cash,Chidinma E.
+22-Jul-2026,05:39 PM,PPM-20260722-0350,Golden Penny Spaghetti,Foodstuff,2,₦900,"₦1,800",Transfer,Grace U.
+22-Jul-2026,05:51 PM,PPM-20260722-0352,Coca-Cola 50cl,Beverages,4,₦500,"₦2,000",Cash,Blessing O.
+22-Jul-2026,06:05 PM,PPM-20260722-0355,Blue Band Butter 250g,Dairy & Beverages,4,"₦1,600","₦6,400",Transfer,Grace U.
+22-Jul-2026,06:11 PM,PPM-20260722-0332,Cerelac Baby Food 400g,Baby Products,2,"₦3,600","₦7,200",POS,Grace U.
+22-Jul-2026,06:21 PM,PPM-20260722-0363,Fanta 50cl,Beverages,2,₦500,"₦1,000",POS,Grace U.
+22-Jul-2026,06:46 PM,PPM-20260722-0338,Gala Sausage Roll,Snacks,1,₦300,₦300,Transfer,Grace U.
+22-Jul-2026,06:58 PM,PPM-20260722-0335,Caprice Rice 5kg,Foodstuff,3,"₦8,200","₦24,600",Transfer,Grace U.
+22-Jul-2026,07:29 PM,PPM-20260722-0342,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",POS,Grace U.
+22-Jul-2026,07:43 PM,PPM-20260722-0361,Agege Bread (Loaf),Bakery,2,"₦1,200","₦2,400",Transfer,Grace U.
+22-Jul-2026,08:30 PM,PPM-20260722-0340,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,Cash,Chidinma E.
+22-Jul-2026,08:41 PM,PPM-20260722-0346,Mama Gold Rice 5kg,Foodstuff,4,"₦8,500","₦34,000",Transfer,Chidinma E.
+22-Jul-2026,08:46 PM,PPM-20260722-0362,Always Sanitary Pad (Pack),Toiletries,1,"₦1,400","₦1,400",Transfer,Ifeanyi A.
+23-Jul-2026,07:13 AM,PPM-20260723-0394,Kings Vegetable Oil 3L,Foodstuff,2,"₦7,200","₦14,400",Cash,Blessing O.
+23-Jul-2026,08:00 AM,PPM-20260723-0367,Oral-B Toothbrush,Toiletries,1,₦600,₦600,Transfer,Ifeanyi A.
+23-Jul-2026,08:14 AM,PPM-20260723-0404,Ariel Detergent 1kg,Household,1,"₦2,300","₦2,300",Cash,Grace U.
+23-Jul-2026,08:38 AM,PPM-20260723-0369,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Grace U.
+23-Jul-2026,08:51 AM,PPM-20260723-0391,Coca-Cola 50cl,Beverages,1,₦500,₦500,POS,Chidinma E.
+23-Jul-2026,08:53 AM,PPM-20260723-0407,Bournvita 500g,Dairy & Beverages,6,"₦3,300","₦19,800",POS,Ifeanyi A.
+23-Jul-2026,09:20 AM,PPM-20260723-0401,Cerelac Baby Food 400g,Baby Products,2,"₦3,600","₦7,200",Transfer,Blessing O.
+23-Jul-2026,09:36 AM,PPM-20260723-0378,Harpic Toilet Cleaner 500ml,Household,1,"₦1,800","₦1,800",Transfer,Chidinma E.
+23-Jul-2026,10:55 AM,PPM-20260723-0408,Gala Sausage Roll,Snacks,1,₦300,₦300,Cash,Blessing O.
+23-Jul-2026,11:19 AM,PPM-20260723-0372,Bigi Cola 50cl,Beverages,1,₦400,₦400,POS,Ifeanyi A.
+23-Jul-2026,11:24 AM,PPM-20260723-0366,Five Alive Juice 1L,Beverages,1,"₦1,800","₦1,800",POS,Chidinma E.
+23-Jul-2026,12:08 PM,PPM-20260723-0371,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Cash,Grace U.
+23-Jul-2026,12:19 PM,PPM-20260723-0390,Indomie Noodles (Pack of 40),Foodstuff,3,"₦5,800","₦17,400",POS,Blessing O.
+23-Jul-2026,12:27 PM,PPM-20260723-0392,Milo 500g,Dairy & Beverages,2,"₦3,200","₦6,400",Cash,Grace U.
+23-Jul-2026,12:52 PM,PPM-20260723-0406,Omo Detergent 1kg,Household,4,"₦2,200","₦8,800",Cash,Grace U.
+23-Jul-2026,12:57 PM,PPM-20260723-0383,Bournvita 500g,Dairy & Beverages,3,"₦3,300","₦9,900",Transfer,Blessing O.
+23-Jul-2026,01:11 PM,PPM-20260723-0376,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",POS,Ifeanyi A.
+23-Jul-2026,01:12 PM,PPM-20260723-0402,Gala Sausage Roll,Snacks,5,₦300,"₦1,500",Transfer,Grace U.
+23-Jul-2026,01:35 PM,PPM-20260723-0368,Sprite 50cl,Beverages,1,₦500,₦500,Transfer,Blessing O.
+23-Jul-2026,01:53 PM,PPM-20260723-0374,Bigi Cola 50cl,Beverages,1,₦400,₦400,Transfer,Ifeanyi A.
+23-Jul-2026,02:23 PM,PPM-20260723-0395,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",Cash,Blessing O.
+23-Jul-2026,02:26 PM,PPM-20260723-0399,Eva Table Water 75cl,Beverages,3,₦200,₦600,Cash,Grace U.
+23-Jul-2026,02:32 PM,PPM-20260723-0405,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",Transfer,Ifeanyi A.
+23-Jul-2026,02:40 PM,PPM-20260723-0396,Mama Gold Rice 5kg,Foodstuff,4,"₦8,500","₦34,000",Transfer,Grace U.
+23-Jul-2026,02:58 PM,PPM-20260723-0400,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",POS,Chidinma E.
+23-Jul-2026,03:34 PM,PPM-20260723-0382,Kings Vegetable Oil 3L,Foodstuff,2,"₦7,200","₦14,400",POS,Grace U.
+23-Jul-2026,03:36 PM,PPM-20260723-0386,Maggi Cubes (Pack),Foodstuff,2,₦700,"₦1,400",Transfer,Grace U.
+23-Jul-2026,04:38 PM,PPM-20260723-0373,Five Alive Juice 1L,Beverages,1,"₦1,800","₦1,800",Cash,Blessing O.
+23-Jul-2026,05:09 PM,PPM-20260723-0387,Groundnut Oil 1L (bottle),Foodstuff,3,"₦2,800","₦8,400",POS,Grace U.
+23-Jul-2026,05:10 PM,PPM-20260723-0384,Sprite 50cl,Beverages,1,₦500,₦500,Transfer,Grace U.
+23-Jul-2026,05:20 PM,PPM-20260723-0398,Pampers Diapers (Pack),Baby Products,2,"₦6,500","₦13,000",Cash,Blessing O.
+23-Jul-2026,05:25 PM,PPM-20260723-0393,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",POS,Chidinma E.
+23-Jul-2026,05:28 PM,PPM-20260723-0403,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",Cash,Blessing O.
+23-Jul-2026,05:45 PM,PPM-20260723-0381,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",POS,Blessing O.
+23-Jul-2026,06:06 PM,PPM-20260723-0385,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,Cash,Chidinma E.
+23-Jul-2026,06:33 PM,PPM-20260723-0389,Beans (Oloyin) 1 Paint,Foodstuff,1,"₦3,500","₦3,500",Cash,Blessing O.
+23-Jul-2026,06:37 PM,PPM-20260723-0409,Omo Detergent 1kg,Household,1,"₦2,200","₦2,200",Transfer,Grace U.
+23-Jul-2026,06:41 PM,PPM-20260723-0375,Golden Penny Flour 2kg,Foodstuff,2,"₦2,400","₦4,800",Cash,Ifeanyi A.
+23-Jul-2026,06:46 PM,PPM-20260723-0370,Coca-Cola 50cl,Beverages,2,₦500,"₦1,000",Transfer,Chidinma E.
+23-Jul-2026,07:39 PM,PPM-20260723-0397,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",POS,Ifeanyi A.
+23-Jul-2026,07:50 PM,PPM-20260723-0380,Dettol Antiseptic 250ml,Household,1,"₦2,100","₦2,100",POS,Chidinma E.
+23-Jul-2026,08:07 PM,PPM-20260723-0388,Sprite 50cl,Beverages,2,₦500,"₦1,000",POS,Chidinma E.
+23-Jul-2026,08:29 PM,PPM-20260723-0379,Dettol Soap,Toiletries,2,₦650,"₦1,300",Cash,Ifeanyi A.
+23-Jul-2026,08:50 PM,PPM-20260723-0377,Colgate Toothpaste 120ml,Toiletries,2,"₦1,100","₦2,200",Cash,Ifeanyi A.
+24-Jul-2026,07:21 AM,PPM-20260724-0425,Milo 500g,Dairy & Beverages,2,"₦3,200","₦6,400",Cash,Grace U.
+24-Jul-2026,07:34 AM,PPM-20260724-0455,Bigi Cola 50cl,Beverages,5,₦400,"₦2,000",Transfer,Blessing O.
+24-Jul-2026,07:59 AM,PPM-20260724-0420,Eggs (Crate of 30),Bakery/Fresh,4,"₦3,800","₦15,200",Cash,Grace U.
+24-Jul-2026,08:05 AM,PPM-20260724-0441,Colgate Toothpaste 120ml,Toiletries,4,"₦1,100","₦4,400",Transfer,Grace U.
+24-Jul-2026,08:13 AM,PPM-20260724-0424,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",Cash,Chidinma E.
+24-Jul-2026,08:14 AM,PPM-20260724-0451,Sprite 50cl,Beverages,3,₦500,"₦1,500",Transfer,Blessing O.
+24-Jul-2026,08:36 AM,PPM-20260724-0428,Eggs (Crate of 30),Bakery/Fresh,3,"₦3,800","₦11,400",Transfer,Chidinma E.
+24-Jul-2026,08:40 AM,PPM-20260724-0423,Dettol Soap,Toiletries,2,₦650,"₦1,300",POS,Chidinma E.
+24-Jul-2026,08:48 AM,PPM-20260724-0430,Gala Sausage Roll,Snacks,1,₦300,₦300,Transfer,Grace U.
+24-Jul-2026,08:51 AM,PPM-20260724-0449,Eva Table Water 75cl,Beverages,6,₦200,"₦1,200",POS,Grace U.
+24-Jul-2026,08:54 AM,PPM-20260724-0446,Maggi Cubes (Pack),Foodstuff,2,₦700,"₦1,400",Cash,Chidinma E.
+24-Jul-2026,09:20 AM,PPM-20260724-0413,Sunlight Bar Soap,Toiletries,1,₦450,₦450,Cash,Grace U.
+24-Jul-2026,09:22 AM,PPM-20260724-0443,Sunlight Bar Soap,Toiletries,3,₦450,"₦1,350",Transfer,Ifeanyi A.
+24-Jul-2026,09:25 AM,PPM-20260724-0433,Pure Water Sachet (bag),Beverages,2,₦300,₦600,Transfer,Chidinma E.
+24-Jul-2026,09:49 AM,PPM-20260724-0427,Garri (Ijebu) 1 Paint,Foodstuff,4,"₦2,200","₦8,800",POS,Chidinma E.
+24-Jul-2026,09:55 AM,PPM-20260724-0435,Nivea Body Lotion 400ml,Beauty,5,"₦3,500","₦17,500",Transfer,Ifeanyi A.
+24-Jul-2026,10:05 AM,PPM-20260724-0426,Dudu Osun Soap,Toiletries,2,₦500,"₦1,000",POS,Blessing O.
+24-Jul-2026,10:30 AM,PPM-20260724-0448,Coca-Cola 50cl,Beverages,4,₦500,"₦2,000",Transfer,Chidinma E.
+24-Jul-2026,10:44 AM,PPM-20260724-0421,Coca-Cola 50cl,Beverages,5,₦500,"₦2,500",Cash,Ifeanyi A.
+24-Jul-2026,10:51 AM,PPM-20260724-0439,Garri (Ijebu) 1 Paint,Foodstuff,2,"₦2,200","₦4,400",Transfer,Grace U.
+24-Jul-2026,11:26 AM,PPM-20260724-0414,Maggi Cubes (Pack),Foodstuff,2,₦700,"₦1,400",Transfer,Blessing O.
+24-Jul-2026,11:41 AM,PPM-20260724-0422,Pepsi 50cl,Beverages,5,₦450,"₦2,250",Cash,Ifeanyi A.
+24-Jul-2026,12:18 PM,PPM-20260724-0418,Dettol Antiseptic 250ml,Household,2,"₦2,100","₦4,200",Transfer,Chidinma E.
+24-Jul-2026,12:18 PM,PPM-20260724-0453,Sprite 50cl,Beverages,2,₦500,"₦1,000",POS,Chidinma E.
+24-Jul-2026,12:43 PM,PPM-20260724-0419,Agege Bread (Loaf),Bakery,2,"₦1,200","₦2,400",Cash,Blessing O.
+24-Jul-2026,01:03 PM,PPM-20260724-0412,Bigi Cola 50cl,Beverages,3,₦400,"₦1,200",POS,Chidinma E.
+24-Jul-2026,01:18 PM,PPM-20260724-0452,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,POS,Ifeanyi A.
+24-Jul-2026,01:49 PM,PPM-20260724-0436,Bournvita 500g,Dairy & Beverages,1,"₦3,300","₦3,300",Cash,Blessing O.
+24-Jul-2026,02:16 PM,PPM-20260724-0445,Garri (Ijebu) 1 Paint,Foodstuff,2,"₦2,200","₦4,400",POS,Blessing O.
+24-Jul-2026,02:38 PM,PPM-20260724-0434,Maggi Cubes (Pack),Foodstuff,1,₦700,₦700,Transfer,Blessing O.
+24-Jul-2026,02:49 PM,PPM-20260724-0454,Groundnut Oil 1L (bottle),Foodstuff,2,"₦2,800","₦5,600",Cash,Chidinma E.
+24-Jul-2026,03:46 PM,PPM-20260724-0447,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Cash,Blessing O.
+24-Jul-2026,04:09 PM,PPM-20260724-0429,Golden Penny Flour 2kg,Foodstuff,3,"₦2,400","₦7,200",Transfer,Grace U.
+24-Jul-2026,04:34 PM,PPM-20260724-0438,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",Cash,Blessing O.
+24-Jul-2026,04:49 PM,PPM-20260724-0432,Cerelac Baby Food 400g,Baby Products,2,"₦3,600","₦7,200",Cash,Ifeanyi A.
+24-Jul-2026,05:41 PM,PPM-20260724-0440,Agege Bread (Loaf),Bakery,3,"₦1,200","₦3,600",Cash,Grace U.
+24-Jul-2026,05:42 PM,PPM-20260724-0442,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",Cash,Blessing O.
+24-Jul-2026,05:54 PM,PPM-20260724-0456,Titus Fish (per kg),Frozen/Provisions,1,"₦3,800","₦3,800",POS,Blessing O.
+24-Jul-2026,05:56 PM,PPM-20260724-0415,Indomie Noodles (Pack of 40),Foodstuff,3,"₦5,800","₦17,400",Transfer,Grace U.
+24-Jul-2026,06:15 PM,PPM-20260724-0431,Beans (Oloyin) 1 Paint,Foodstuff,2,"₦3,500","₦7,000",Transfer,Chidinma E.
+24-Jul-2026,06:17 PM,PPM-20260724-0444,Pepsi 50cl,Beverages,1,₦450,₦450,POS,Blessing O.
+24-Jul-2026,06:46 PM,PPM-20260724-0416,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",POS,Grace U.
+24-Jul-2026,06:51 PM,PPM-20260724-0410,Eggs (Crate of 30),Bakery/Fresh,3,"₦3,800","₦11,400",Transfer,Ifeanyi A.
+24-Jul-2026,07:20 PM,PPM-20260724-0450,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Ifeanyi A.
+24-Jul-2026,07:50 PM,PPM-20260724-0437,Coca-Cola 50cl,Beverages,1,₦500,₦500,Transfer,Grace U.
+24-Jul-2026,07:50 PM,PPM-20260724-0417,Eggs (Crate of 30),Bakery/Fresh,3,"₦3,800","₦11,400",Transfer,Grace U.
+24-Jul-2026,08:18 PM,PPM-20260724-0411,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Transfer,Blessing O.
+25-Jul-2026,08:03 AM,PPM-20260725-0483,Bournvita 500g,Dairy & Beverages,1,"₦3,300","₦3,300",Transfer,Blessing O.
+25-Jul-2026,08:06 AM,PPM-20260725-0467,Cerelac Baby Food 400g,Baby Products,2,"₦3,600","₦7,200",POS,Blessing O.
+25-Jul-2026,08:08 AM,PPM-20260725-0459,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,POS,Blessing O.
+25-Jul-2026,08:18 AM,PPM-20260725-0516,Pampers Diapers (Pack),Baby Products,2,"₦6,500","₦13,000",Transfer,Ifeanyi A.
+25-Jul-2026,08:21 AM,PPM-20260725-0500,Agege Bread (Loaf),Bakery,2,"₦1,200","₦2,400",POS,Grace U.
+25-Jul-2026,08:37 AM,PPM-20260725-0469,Dettol Soap,Toiletries,5,₦650,"₦3,250",POS,Blessing O.
+25-Jul-2026,08:39 AM,PPM-20260725-0473,Mama Gold Rice 5kg,Foodstuff,4,"₦8,500","₦34,000",Cash,Ifeanyi A.
+25-Jul-2026,08:51 AM,PPM-20260725-0464,Groundnut Oil 1L (bottle),Foodstuff,4,"₦2,800","₦11,200",Cash,Blessing O.
+25-Jul-2026,08:59 AM,PPM-20260725-0471,Bigi Cola 50cl,Beverages,5,₦400,"₦2,000",Transfer,Grace U.
+25-Jul-2026,09:10 AM,PPM-20260725-0511,Sprite 50cl,Beverages,3,₦500,"₦1,500",POS,Chidinma E.
+25-Jul-2026,09:19 AM,PPM-20260725-0489,Pure Water Sachet (bag),Beverages,2,₦300,₦600,POS,Chidinma E.
+25-Jul-2026,09:22 AM,PPM-20260725-0463,Kings Vegetable Oil 3L,Foodstuff,1,"₦7,200","₦7,200",Cash,Ifeanyi A.
+25-Jul-2026,09:44 AM,PPM-20260725-0507,Ambipur Air Freshener,Household,2,"₦2,500","₦5,000",Cash,Ifeanyi A.
+25-Jul-2026,09:45 AM,PPM-20260725-0465,Pure Water Sachet (bag),Beverages,4,₦300,"₦1,200",POS,Grace U.
+25-Jul-2026,10:04 AM,PPM-20260725-0494,Golden Penny Flour 2kg,Foodstuff,1,"₦2,400","₦2,400",Cash,Blessing O.
+25-Jul-2026,10:11 AM,PPM-20260725-0466,Maggi Cubes (Pack),Foodstuff,3,₦700,"₦2,100",POS,Grace U.
+25-Jul-2026,10:41 AM,PPM-20260725-0505,Dangote Salt 1kg,Foodstuff,4,₦500,"₦2,000",Transfer,Ifeanyi A.
+25-Jul-2026,11:52 AM,PPM-20260725-0479,Sprite 50cl,Beverages,3,₦500,"₦1,500",POS,Blessing O.
+25-Jul-2026,12:01 PM,PPM-20260725-0485,Pampers Diapers (Pack),Baby Products,4,"₦6,500","₦26,000",Transfer,Chidinma E.
+25-Jul-2026,12:10 PM,PPM-20260725-0487,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",POS,Grace U.
+25-Jul-2026,12:14 PM,PPM-20260725-0477,Golden Penny Spaghetti,Foodstuff,1,₦900,₦900,POS,Ifeanyi A.
+25-Jul-2026,12:34 PM,PPM-20260725-0476,Nivea Body Lotion 400ml,Beauty,3,"₦3,500","₦10,500",Transfer,Ifeanyi A.
+25-Jul-2026,12:46 PM,PPM-20260725-0498,Fanta 50cl,Beverages,1,₦500,₦500,Transfer,Blessing O.
+25-Jul-2026,12:53 PM,PPM-20260725-0496,Digestive Biscuits,Snacks,1,"₦1,200","₦1,200",POS,Chidinma E.
+25-Jul-2026,01:05 PM,PPM-20260725-0474,Maggi Cubes (Pack),Foodstuff,4,₦700,"₦2,800",Transfer,Grace U.
+25-Jul-2026,01:16 PM,PPM-20260725-0506,Digestive Biscuits,Snacks,1,"₦1,200","₦1,200",Transfer,Chidinma E.
+25-Jul-2026,01:22 PM,PPM-20260725-0472,Maggi Cubes (Pack),Foodstuff,1,₦700,₦700,POS,Ifeanyi A.
+25-Jul-2026,01:26 PM,PPM-20260725-0495,Vaseline Petroleum Jelly 100ml,Toiletries,1,"₦1,300","₦1,300",POS,Grace U.
+25-Jul-2026,02:03 PM,PPM-20260725-0457,Peak Milk Powder 400g,Dairy & Beverages,1,"₦3,400","₦3,400",POS,Blessing O.
+25-Jul-2026,02:40 PM,PPM-20260725-0475,Pure Water Sachet (bag),Beverages,4,₦300,"₦1,200",Transfer,Blessing O.
+25-Jul-2026,02:49 PM,PPM-20260725-0478,Fanta 50cl,Beverages,6,₦500,"₦3,000",POS,Chidinma E.
+25-Jul-2026,02:55 PM,PPM-20260725-0509,Harpic Toilet Cleaner 500ml,Household,2,"₦1,800","₦3,600",Transfer,Chidinma E.
+25-Jul-2026,03:09 PM,PPM-20260725-0482,Sunlight Bar Soap,Toiletries,1,₦450,₦450,POS,Grace U.
+25-Jul-2026,03:31 PM,PPM-20260725-0502,Sprite 50cl,Beverages,1,₦500,₦500,Cash,Blessing O.
+25-Jul-2026,03:37 PM,PPM-20260725-0515,Sprite 50cl,Beverages,1,₦500,₦500,POS,Blessing O.
+25-Jul-2026,03:51 PM,PPM-20260725-0480,Rose Tissue Paper (Pack of 4),Toiletries,5,"₦1,500","₦7,500",Transfer,Chidinma E.
+25-Jul-2026,05:08 PM,PPM-20260725-0460,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Cash,Ifeanyi A.
+25-Jul-2026,05:12 PM,PPM-20260725-0512,Coca-Cola 50cl,Beverages,1,₦500,₦500,Transfer,Ifeanyi A.
+25-Jul-2026,05:16 PM,PPM-20260725-0501,Dudu Osun Soap,Toiletries,3,₦500,"₦1,500",Cash,Chidinma E.
+25-Jul-2026,05:36 PM,PPM-20260725-0490,Eva Table Water 75cl,Beverages,1,₦200,₦200,POS,Blessing O.
+25-Jul-2026,05:36 PM,PPM-20260725-0517,Gala Sausage Roll,Snacks,1,₦300,₦300,Transfer,Chidinma E.
+25-Jul-2026,05:38 PM,PPM-20260725-0503,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",Cash,Blessing O.
+25-Jul-2026,06:05 PM,PPM-20260725-0513,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",Transfer,Ifeanyi A.
+25-Jul-2026,06:14 PM,PPM-20260725-0508,Sunlight Detergent Powder 900g,Household,2,"₦1,900","₦3,800",Cash,Grace U.
+25-Jul-2026,06:15 PM,PPM-20260725-0492,Frozen Chicken (per kg),Frozen/Provisions,1,"₦4,500","₦4,500",POS,Chidinma E.
+25-Jul-2026,06:20 PM,PPM-20260725-0461,Baby Wipes (Pack),Baby Products,1,"₦1,800","₦1,800",Transfer,Chidinma E.
+25-Jul-2026,06:37 PM,PPM-20260725-0462,Fanta 50cl,Beverages,1,₦500,₦500,Cash,Chidinma E.
+25-Jul-2026,06:39 PM,PPM-20260725-0491,Eva Table Water 75cl,Beverages,1,₦200,₦200,Transfer,Blessing O.
+25-Jul-2026,06:42 PM,PPM-20260725-0493,Eggs (Crate of 30),Bakery/Fresh,6,"₦3,800","₦22,800",POS,Ifeanyi A.
+25-Jul-2026,06:44 PM,PPM-20260725-0481,Amstel Malta 33cl,Beverages,2,₦600,"₦1,200",POS,Blessing O.
+25-Jul-2026,07:00 PM,PPM-20260725-0514,Gala Sausage Roll,Snacks,2,₦300,₦600,POS,Grace U.
+25-Jul-2026,07:04 PM,PPM-20260725-0486,Omo Detergent 1kg,Household,4,"₦2,200","₦8,800",POS,Grace U.
+25-Jul-2026,07:12 PM,PPM-20260725-0484,Peak Milk Powder 400g,Dairy & Beverages,1,"₦3,400","₦3,400",Cash,Chidinma E.
+25-Jul-2026,07:18 PM,PPM-20260725-0497,Pepsi 50cl,Beverages,1,₦450,₦450,Cash,Blessing O.
+25-Jul-2026,07:26 PM,PPM-20260725-0458,Coca-Cola 50cl,Beverages,1,₦500,₦500,POS,Grace U.
+25-Jul-2026,07:28 PM,PPM-20260725-0470,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Ifeanyi A.
+25-Jul-2026,07:45 PM,PPM-20260725-0499,Garri (Ijebu) 1 Paint,Foodstuff,6,"₦2,200","₦13,200",Transfer,Chidinma E.
+25-Jul-2026,07:45 PM,PPM-20260725-0510,Dangote Salt 1kg,Foodstuff,1,₦500,₦500,Transfer,Chidinma E.
+25-Jul-2026,08:08 PM,PPM-20260725-0468,Coca-Cola 50cl,Beverages,4,₦500,"₦2,000",POS,Ifeanyi A.
+25-Jul-2026,08:30 PM,PPM-20260725-0504,Pure Water Sachet (bag),Beverages,2,₦300,₦600,Cash,Grace U.
+25-Jul-2026,08:44 PM,PPM-20260725-0488,Blue Band Butter 250g,Dairy & Beverages,1,"₦1,600","₦1,600",POS,Ifeanyi A.
+26-Jul-2026,08:17 AM,PPM-20260726-0535,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Cash,Ifeanyi A.
+26-Jul-2026,09:03 AM,PPM-20260726-0525,Amstel Malta 33cl,Beverages,4,₦600,"₦2,400",Cash,Blessing O.
+26-Jul-2026,09:06 AM,PPM-20260726-0541,Ambipur Air Freshener,Household,4,"₦2,500","₦10,000",Cash,Ifeanyi A.
+26-Jul-2026,09:12 AM,PPM-20260726-0546,Fanta 50cl,Beverages,4,₦500,"₦2,000",Transfer,Grace U.
+26-Jul-2026,09:36 AM,PPM-20260726-0529,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",POS,Chidinma E.
+26-Jul-2026,09:43 AM,PPM-20260726-0545,Dangote Salt 1kg,Foodstuff,1,₦500,₦500,Transfer,Grace U.
+26-Jul-2026,09:51 AM,PPM-20260726-0531,Dangote Salt 1kg,Foodstuff,1,₦500,₦500,Cash,Ifeanyi A.
+26-Jul-2026,09:57 AM,PPM-20260726-0528,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",POS,Blessing O.
+26-Jul-2026,11:26 AM,PPM-20260726-0530,Blue Band Butter 250g,Dairy & Beverages,3,"₦1,600","₦4,800",Cash,Blessing O.
+26-Jul-2026,11:31 AM,PPM-20260726-0520,Harpic Toilet Cleaner 500ml,Household,1,"₦1,800","₦1,800",POS,Blessing O.
+26-Jul-2026,11:47 AM,PPM-20260726-0521,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,POS,Ifeanyi A.
+26-Jul-2026,11:52 AM,PPM-20260726-0526,Pampers Diapers (Pack),Baby Products,3,"₦6,500","₦19,500",Transfer,Blessing O.
+26-Jul-2026,11:57 AM,PPM-20260726-0532,Lux Soap,Toiletries,3,₦550,"₦1,650",POS,Grace U.
+26-Jul-2026,01:17 PM,PPM-20260726-0519,Dettol Soap,Toiletries,1,₦650,₦650,Transfer,Ifeanyi A.
+26-Jul-2026,01:42 PM,PPM-20260726-0540,Dettol Soap,Toiletries,2,₦650,"₦1,300",Transfer,Chidinma E.
+26-Jul-2026,01:49 PM,PPM-20260726-0524,Fanta 50cl,Beverages,3,₦500,"₦1,500",Transfer,Blessing O.
+26-Jul-2026,02:28 PM,PPM-20260726-0527,Dettol Soap,Toiletries,1,₦650,₦650,POS,Grace U.
+26-Jul-2026,05:12 PM,PPM-20260726-0522,Mama Gold Rice 5kg,Foodstuff,2,"₦8,500","₦17,000",Cash,Grace U.
+26-Jul-2026,05:25 PM,PPM-20260726-0518,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",Transfer,Ifeanyi A.
+26-Jul-2026,05:52 PM,PPM-20260726-0533,Five Alive Juice 1L,Beverages,2,"₦1,800","₦3,600",Transfer,Blessing O.
+26-Jul-2026,06:38 PM,PPM-20260726-0537,Pringles Chips,Snacks,4,"₦2,500","₦10,000",POS,Chidinma E.
+26-Jul-2026,07:19 PM,PPM-20260726-0536,Mama Gold Rice 5kg,Foodstuff,3,"₦8,500","₦25,500",Cash,Chidinma E.
+26-Jul-2026,07:26 PM,PPM-20260726-0543,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Ifeanyi A.
+26-Jul-2026,07:30 PM,PPM-20260726-0544,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",POS,Blessing O.
+26-Jul-2026,07:43 PM,PPM-20260726-0542,Vaseline Petroleum Jelly 100ml,Toiletries,2,"₦1,300","₦2,600",Cash,Blessing O.
+26-Jul-2026,07:52 PM,PPM-20260726-0523,Oral-B Toothbrush,Toiletries,3,₦600,"₦1,800",Transfer,Chidinma E.
+26-Jul-2026,08:16 PM,PPM-20260726-0538,Vaseline Petroleum Jelly 100ml,Toiletries,3,"₦1,300","₦3,900",Transfer,Grace U.
+26-Jul-2026,08:52 PM,PPM-20260726-0539,Colgate Toothpaste 120ml,Toiletries,2,"₦1,100","₦2,200",Cash,Chidinma E.
+26-Jul-2026,08:53 PM,PPM-20260726-0534,Coca-Cola 50cl,Beverages,6,₦500,"₦3,000",Transfer,Ifeanyi A.
+27-Jul-2026,07:34 AM,PPM-20260727-0550,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",POS,Blessing O.
+27-Jul-2026,07:44 AM,PPM-20260727-0558,Hollandia Yoghurt 1L,Dairy & Beverages,3,"₦2,200","₦6,600",Transfer,Grace U.
+27-Jul-2026,08:14 AM,PPM-20260727-0580,Pure Water Sachet (bag),Beverages,6,₦300,"₦1,800",Transfer,Grace U.
+27-Jul-2026,08:31 AM,PPM-20260727-0563,Sunlight Bar Soap,Toiletries,1,₦450,₦450,Cash,Grace U.
+27-Jul-2026,08:39 AM,PPM-20260727-0549,Maggi Cubes (Pack),Foodstuff,3,₦700,"₦2,100",Transfer,Grace U.
+27-Jul-2026,08:54 AM,PPM-20260727-0568,Sprite 50cl,Beverages,3,₦500,"₦1,500",POS,Chidinma E.
+27-Jul-2026,08:58 AM,PPM-20260727-0572,Nivea Body Lotion 400ml,Beauty,4,"₦3,500","₦14,000",Transfer,Grace U.
+27-Jul-2026,09:57 AM,PPM-20260727-0554,Indomie Noodles (Pack of 40),Foodstuff,3,"₦5,800","₦17,400",Transfer,Chidinma E.
+27-Jul-2026,11:18 AM,PPM-20260727-0553,Pepsi 50cl,Beverages,4,₦450,"₦1,800",POS,Ifeanyi A.
+27-Jul-2026,12:01 PM,PPM-20260727-0573,Eva Table Water 75cl,Beverages,1,₦200,₦200,POS,Chidinma E.
+27-Jul-2026,12:06 PM,PPM-20260727-0552,Pure Water Sachet (bag),Beverages,4,₦300,"₦1,200",Transfer,Ifeanyi A.
+27-Jul-2026,12:33 PM,PPM-20260727-0576,Titus Sardine (Can),Frozen/Provisions,3,₦900,"₦2,700",POS,Blessing O.
+27-Jul-2026,12:43 PM,PPM-20260727-0567,Gala Sausage Roll,Snacks,4,₦300,"₦1,200",Transfer,Blessing O.
+27-Jul-2026,01:13 PM,PPM-20260727-0548,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",POS,Chidinma E.
+27-Jul-2026,01:29 PM,PPM-20260727-0570,Harpic Toilet Cleaner 500ml,Household,1,"₦1,800","₦1,800",POS,Grace U.
+27-Jul-2026,01:42 PM,PPM-20260727-0577,Indomie Noodles (Pack of 40),Foodstuff,3,"₦5,800","₦17,400",Transfer,Chidinma E.
+27-Jul-2026,02:01 PM,PPM-20260727-0551,Cabin Biscuits (Pack),Snacks,3,₦200,₦600,Cash,Chidinma E.
+27-Jul-2026,02:07 PM,PPM-20260727-0556,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Blessing O.
+27-Jul-2026,02:10 PM,PPM-20260727-0579,Maggi Cubes (Pack),Foodstuff,2,₦700,"₦1,400",POS,Ifeanyi A.
+27-Jul-2026,02:39 PM,PPM-20260727-0561,Indomie Noodles (Pack of 40),Foodstuff,4,"₦5,800","₦23,200",Cash,Blessing O.
+27-Jul-2026,02:46 PM,PPM-20260727-0565,Bigi Cola 50cl,Beverages,1,₦400,₦400,Cash,Ifeanyi A.
+27-Jul-2026,02:47 PM,PPM-20260727-0575,Coca-Cola 50cl,Beverages,4,₦500,"₦2,000",POS,Chidinma E.
+27-Jul-2026,05:13 PM,PPM-20260727-0559,Bigi Cola 50cl,Beverages,1,₦400,₦400,POS,Blessing O.
+27-Jul-2026,05:17 PM,PPM-20260727-0560,Caprice Rice 5kg,Foodstuff,3,"₦8,200","₦24,600",Transfer,Chidinma E.
+27-Jul-2026,05:58 PM,PPM-20260727-0564,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",POS,Grace U.
+27-Jul-2026,06:01 PM,PPM-20260727-0555,Pepsi 50cl,Beverages,5,₦450,"₦2,250",Cash,Chidinma E.
+27-Jul-2026,06:07 PM,PPM-20260727-0571,Ariel Detergent 1kg,Household,2,"₦2,300","₦4,600",POS,Blessing O.
+27-Jul-2026,06:31 PM,PPM-20260727-0547,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",Transfer,Chidinma E.
+27-Jul-2026,06:39 PM,PPM-20260727-0557,Golden Penny Spaghetti,Foodstuff,2,₦900,"₦1,800",Transfer,Blessing O.
+27-Jul-2026,06:53 PM,PPM-20260727-0562,Maggi Cubes (Pack),Foodstuff,2,₦700,"₦1,400",POS,Ifeanyi A.
+27-Jul-2026,07:28 PM,PPM-20260727-0574,St. Louis Sugar 1kg,Foodstuff,2,"₦1,500","₦3,000",Cash,Ifeanyi A.
+27-Jul-2026,08:03 PM,PPM-20260727-0578,Ambipur Air Freshener,Household,2,"₦2,500","₦5,000",Transfer,Chidinma E.
+27-Jul-2026,08:16 PM,PPM-20260727-0566,Eggs (Crate of 30),Bakery/Fresh,2,"₦3,800","₦7,600",Cash,Chidinma E.
+27-Jul-2026,08:17 PM,PPM-20260727-0569,Garri (Ijebu) 1 Paint,Foodstuff,4,"₦2,200","₦8,800",POS,Ifeanyi A.
+28-Jul-2026,07:06 AM,PPM-20260728-0599,Gala Sausage Roll,Snacks,2,₦300,₦600,Transfer,Blessing O.
+28-Jul-2026,07:33 AM,PPM-20260728-0616,Mama Gold Rice 5kg,Foodstuff,3,"₦8,500","₦25,500",POS,Grace U.
+28-Jul-2026,08:11 AM,PPM-20260728-0607,Kings Vegetable Oil 3L,Foodstuff,6,"₦7,200","₦43,200",Transfer,Grace U.
+28-Jul-2026,08:14 AM,PPM-20260728-0612,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",Cash,Ifeanyi A.
+28-Jul-2026,08:34 AM,PPM-20260728-0619,Gala Sausage Roll,Snacks,2,₦300,₦600,POS,Grace U.
+28-Jul-2026,08:38 AM,PPM-20260728-0583,Cerelac Baby Food 400g,Baby Products,1,"₦3,600","₦3,600",Transfer,Chidinma E.
+28-Jul-2026,08:57 AM,PPM-20260728-0587,Bournvita 500g,Dairy & Beverages,1,"₦3,300","₦3,300",Transfer,Grace U.
+28-Jul-2026,09:09 AM,PPM-20260728-0609,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",Cash,Blessing O.
+28-Jul-2026,09:16 AM,PPM-20260728-0621,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Chidinma E.
+28-Jul-2026,09:59 AM,PPM-20260728-0588,Sprite 50cl,Beverages,2,₦500,"₦1,000",Transfer,Grace U.
+28-Jul-2026,10:10 AM,PPM-20260728-0608,Coca-Cola 50cl,Beverages,1,₦500,₦500,POS,Blessing O.
+28-Jul-2026,10:21 AM,PPM-20260728-0586,Sprite 50cl,Beverages,3,₦500,"₦1,500",POS,Ifeanyi A.
+28-Jul-2026,10:41 AM,PPM-20260728-0614,Sprite 50cl,Beverages,1,₦500,₦500,POS,Chidinma E.
+28-Jul-2026,11:22 AM,PPM-20260728-0596,Pure Water Sachet (bag),Beverages,2,₦300,₦600,POS,Chidinma E.
+28-Jul-2026,11:48 AM,PPM-20260728-0601,Ambipur Air Freshener,Household,3,"₦2,500","₦7,500",Cash,Grace U.
+28-Jul-2026,11:51 AM,PPM-20260728-0594,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",Cash,Ifeanyi A.
+28-Jul-2026,12:07 PM,PPM-20260728-0597,Maggi Cubes (Pack),Foodstuff,3,₦700,"₦2,100",Transfer,Grace U.
+28-Jul-2026,12:47 PM,PPM-20260728-0595,Gala Sausage Roll,Snacks,2,₦300,₦600,Transfer,Chidinma E.
+28-Jul-2026,12:48 PM,PPM-20260728-0589,Dettol Antiseptic 250ml,Household,1,"₦2,100","₦2,100",Cash,Blessing O.
+28-Jul-2026,12:52 PM,PPM-20260728-0584,Hollandia Yoghurt 1L,Dairy & Beverages,2,"₦2,200","₦4,400",POS,Grace U.
+28-Jul-2026,12:58 PM,PPM-20260728-0615,Titus Sardine (Can),Frozen/Provisions,3,₦900,"₦2,700",POS,Grace U.
+28-Jul-2026,01:25 PM,PPM-20260728-0622,Plantain Chips (Pack),Snacks,2,₦500,"₦1,000",Cash,Grace U.
+28-Jul-2026,02:00 PM,PPM-20260728-0618,Pepsi 50cl,Beverages,5,₦450,"₦2,250",Cash,Chidinma E.
+28-Jul-2026,02:11 PM,PPM-20260728-0611,Fanta 50cl,Beverages,3,₦500,"₦1,500",Cash,Chidinma E.
+28-Jul-2026,04:39 PM,PPM-20260728-0623,Dettol Soap,Toiletries,2,₦650,"₦1,300",POS,Blessing O.
+28-Jul-2026,04:45 PM,PPM-20260728-0585,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",Transfer,Grace U.
+28-Jul-2026,04:49 PM,PPM-20260728-0606,Always Sanitary Pad (Pack),Toiletries,2,"₦1,400","₦2,800",POS,Ifeanyi A.
+28-Jul-2026,05:20 PM,PPM-20260728-0617,Maggi Cubes (Pack),Foodstuff,1,₦700,₦700,Cash,Blessing O.
+28-Jul-2026,05:32 PM,PPM-20260728-0590,Omo Detergent 1kg,Household,2,"₦2,200","₦4,400",POS,Blessing O.
+28-Jul-2026,05:43 PM,PPM-20260728-0598,Agege Bread (Loaf),Bakery,5,"₦1,200","₦6,000",POS,Ifeanyi A.
+28-Jul-2026,06:01 PM,PPM-20260728-0582,Garri (Ijebu) 1 Paint,Foodstuff,6,"₦2,200","₦13,200",Transfer,Blessing O.
+28-Jul-2026,06:06 PM,PPM-20260728-0592,Dudu Osun Soap,Toiletries,1,₦500,₦500,POS,Ifeanyi A.
+28-Jul-2026,06:09 PM,PPM-20260728-0620,Blue Band Butter 250g,Dairy & Beverages,5,"₦1,600","₦8,000",Transfer,Ifeanyi A.
+28-Jul-2026,06:10 PM,PPM-20260728-0600,Dettol Soap,Toiletries,1,₦650,₦650,POS,Chidinma E.
+28-Jul-2026,06:18 PM,PPM-20260728-0603,Pure Water Sachet (bag),Beverages,3,₦300,₦900,POS,Grace U.
+28-Jul-2026,06:19 PM,PPM-20260728-0610,Omo Detergent 1kg,Household,2,"₦2,200","₦4,400",POS,Ifeanyi A.
+28-Jul-2026,06:28 PM,PPM-20260728-0581,Pure Water Sachet (bag),Beverages,2,₦300,₦600,POS,Grace U.
+28-Jul-2026,06:55 PM,PPM-20260728-0602,Sprite 50cl,Beverages,4,₦500,"₦2,000",POS,Grace U.
+28-Jul-2026,07:06 PM,PPM-20260728-0624,Dudu Osun Soap,Toiletries,1,₦500,₦500,POS,Ifeanyi A.
+28-Jul-2026,07:24 PM,PPM-20260728-0625,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",POS,Blessing O.
+28-Jul-2026,07:28 PM,PPM-20260728-0605,Pure Water Sachet (bag),Beverages,4,₦300,"₦1,200",Cash,Ifeanyi A.
+28-Jul-2026,07:53 PM,PPM-20260728-0591,Peak Milk Powder 400g,Dairy & Beverages,1,"₦3,400","₦3,400",Transfer,Chidinma E.
+28-Jul-2026,08:20 PM,PPM-20260728-0604,Golden Penny Spaghetti,Foodstuff,5,₦900,"₦4,500",Cash,Ifeanyi A.
+28-Jul-2026,08:39 PM,PPM-20260728-0613,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",Transfer,Blessing O.
+28-Jul-2026,08:58 PM,PPM-20260728-0593,Maggi Cubes (Pack),Foodstuff,1,₦700,₦700,POS,Ifeanyi A.
+29-Jul-2026,08:04 AM,PPM-20260729-0639,Mama Gold Rice 5kg,Foodstuff,4,"₦8,500","₦34,000",Cash,Blessing O.
+29-Jul-2026,08:16 AM,PPM-20260729-0649,Agege Bread (Loaf),Bakery,4,"₦1,200","₦4,800",POS,Chidinma E.
+29-Jul-2026,08:33 AM,PPM-20260729-0663,Milo 500g,Dairy & Beverages,1,"₦3,200","₦3,200",Cash,Grace U.
+29-Jul-2026,08:41 AM,PPM-20260729-0647,Dangote Salt 1kg,Foodstuff,2,₦500,"₦1,000",Cash,Ifeanyi A.
+29-Jul-2026,09:04 AM,PPM-20260729-0651,Maggi Cubes (Pack),Foodstuff,1,₦700,₦700,Transfer,Chidinma E.
+29-Jul-2026,09:36 AM,PPM-20260729-0644,Rose Tissue Paper (Pack of 4),Toiletries,1,"₦1,500","₦1,500",POS,Chidinma E.
+29-Jul-2026,09:57 AM,PPM-20260729-0661,Dettol Antiseptic 250ml,Household,2,"₦2,100","₦4,200",Transfer,Blessing O.
+29-Jul-2026,10:08 AM,PPM-20260729-0654,Blue Band Butter 250g,Dairy & Beverages,2,"₦1,600","₦3,200",Transfer,Chidinma E.
+29-Jul-2026,10:55 AM,PPM-20260729-0660,Golden Penny Spaghetti,Foodstuff,1,₦900,₦900,Transfer,Grace U.
+29-Jul-2026,11:47 AM,PPM-20260729-0629,Peak Evaporated Milk 170g Tin,Dairy & Beverages,5,₦650,"₦3,250",POS,Ifeanyi A.
+29-Jul-2026,11:52 AM,PPM-20260729-0638,Blue Band Butter 250g,Dairy & Beverages,1,"₦1,600","₦1,600",POS,Chidinma E.
+29-Jul-2026,12:14 PM,PPM-20260729-0645,Colgate Toothpaste 120ml,Toiletries,2,"₦1,100","₦2,200",Transfer,Blessing O.
+29-Jul-2026,12:19 PM,PPM-20260729-0637,Gala Sausage Roll,Snacks,2,₦300,₦600,Transfer,Chidinma E.
+29-Jul-2026,12:27 PM,PPM-20260729-0635,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Cash,Chidinma E.
+29-Jul-2026,01:30 PM,PPM-20260729-0653,Sunlight Detergent Powder 900g,Household,3,"₦1,900","₦5,700",Cash,Chidinma E.
+29-Jul-2026,01:39 PM,PPM-20260729-0634,Pringles Chips,Snacks,1,"₦2,500","₦2,500",Cash,Chidinma E.
+29-Jul-2026,01:49 PM,PPM-20260729-0641,Bournvita 500g,Dairy & Beverages,6,"₦3,300","₦19,800",Transfer,Chidinma E.
+29-Jul-2026,03:03 PM,PPM-20260729-0655,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",Cash,Chidinma E.
+29-Jul-2026,03:11 PM,PPM-20260729-0648,Ambipur Air Freshener,Household,1,"₦2,500","₦2,500",POS,Ifeanyi A.
+29-Jul-2026,04:17 PM,PPM-20260729-0636,Omo Detergent 1kg,Household,3,"₦2,200","₦6,600",Transfer,Ifeanyi A.
+29-Jul-2026,04:30 PM,PPM-20260729-0657,Titus Fish (per kg),Frozen/Provisions,1,"₦3,800","₦3,800",Transfer,Chidinma E.
+29-Jul-2026,04:47 PM,PPM-20260729-0664,Omo Detergent 1kg,Household,1,"₦2,200","₦2,200",POS,Blessing O.
+29-Jul-2026,04:52 PM,PPM-20260729-0652,Bigi Cola 50cl,Beverages,1,₦400,₦400,POS,Grace U.
+29-Jul-2026,05:15 PM,PPM-20260729-0633,Titus Fish (per kg),Frozen/Provisions,1,"₦3,800","₦3,800",Cash,Blessing O.
+29-Jul-2026,05:16 PM,PPM-20260729-0632,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",Cash,Grace U.
+29-Jul-2026,05:33 PM,PPM-20260729-0646,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",POS,Grace U.
+29-Jul-2026,05:54 PM,PPM-20260729-0643,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",POS,Chidinma E.
+29-Jul-2026,05:58 PM,PPM-20260729-0627,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,POS,Ifeanyi A.
+29-Jul-2026,06:13 PM,PPM-20260729-0640,Sunlight Detergent Powder 900g,Household,2,"₦1,900","₦3,800",Cash,Ifeanyi A.
+29-Jul-2026,06:50 PM,PPM-20260729-0626,Bigi Cola 50cl,Beverages,1,₦400,₦400,POS,Ifeanyi A.
+29-Jul-2026,06:52 PM,PPM-20260729-0658,Dettol Antiseptic 250ml,Household,2,"₦2,100","₦4,200",Cash,Ifeanyi A.
+29-Jul-2026,06:54 PM,PPM-20260729-0631,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Grace U.
+29-Jul-2026,07:08 PM,PPM-20260729-0642,Cabin Biscuits (Pack),Snacks,2,₦200,₦400,Transfer,Blessing O.
+29-Jul-2026,07:09 PM,PPM-20260729-0628,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,Cash,Grace U.
+29-Jul-2026,07:09 PM,PPM-20260729-0630,Pure Water Sachet (bag),Beverages,5,₦300,"₦1,500",Cash,Ifeanyi A.
+29-Jul-2026,07:31 PM,PPM-20260729-0650,Milo 500g,Dairy & Beverages,1,"₦3,200","₦3,200",Transfer,Blessing O.
+29-Jul-2026,07:34 PM,PPM-20260729-0662,Sprite 50cl,Beverages,3,₦500,"₦1,500",Cash,Grace U.
+29-Jul-2026,07:38 PM,PPM-20260729-0659,Pepsi 50cl,Beverages,3,₦450,"₦1,350",Cash,Grace U.
+29-Jul-2026,08:40 PM,PPM-20260729-0656,Milo 500g,Dairy & Beverages,2,"₦3,200","₦6,400",POS,Ifeanyi A.
+30-Jul-2026,07:05 AM,PPM-20260730-0673,Pepsi 50cl,Beverages,6,₦450,"₦2,700",Cash,Grace U.
+30-Jul-2026,08:18 AM,PPM-20260730-0682,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",POS,Ifeanyi A.
+30-Jul-2026,09:00 AM,PPM-20260730-0679,Dettol Soap,Toiletries,2,₦650,"₦1,300",POS,Blessing O.
+30-Jul-2026,09:42 AM,PPM-20260730-0676,Eggs (Crate of 30),Bakery/Fresh,2,"₦3,800","₦7,600",POS,Ifeanyi A.
+30-Jul-2026,10:19 AM,PPM-20260730-0670,Golden Penny Spaghetti,Foodstuff,2,₦900,"₦1,800",Cash,Grace U.
+30-Jul-2026,10:35 AM,PPM-20260730-0669,Nivea Roll-on Deodorant,Beauty,1,"₦1,900","₦1,900",Transfer,Chidinma E.
+30-Jul-2026,10:37 AM,PPM-20260730-0696,Dettol Soap,Toiletries,1,₦650,₦650,Cash,Ifeanyi A.
+30-Jul-2026,10:54 AM,PPM-20260730-0665,Bigi Cola 50cl,Beverages,2,₦400,₦800,Cash,Grace U.
+30-Jul-2026,11:39 AM,PPM-20260730-0697,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Transfer,Grace U.
+30-Jul-2026,12:34 PM,PPM-20260730-0686,Ariel Detergent 1kg,Household,2,"₦2,300","₦4,600",POS,Ifeanyi A.
+30-Jul-2026,12:38 PM,PPM-20260730-0674,Sprite 50cl,Beverages,1,₦500,₦500,POS,Grace U.
+30-Jul-2026,12:49 PM,PPM-20260730-0690,Ambipur Air Freshener,Household,4,"₦2,500","₦10,000",Cash,Blessing O.
+30-Jul-2026,12:50 PM,PPM-20260730-0685,St. Louis Sugar 1kg,Foodstuff,1,"₦1,500","₦1,500",POS,Chidinma E.
+30-Jul-2026,12:57 PM,PPM-20260730-0692,Gala Sausage Roll,Snacks,1,₦300,₦300,POS,Ifeanyi A.
+30-Jul-2026,01:07 PM,PPM-20260730-0695,Gala Sausage Roll,Snacks,3,₦300,₦900,Transfer,Ifeanyi A.
+30-Jul-2026,01:08 PM,PPM-20260730-0701,Dangote Salt 1kg,Foodstuff,1,₦500,₦500,POS,Ifeanyi A.
+30-Jul-2026,01:25 PM,PPM-20260730-0681,Pure Water Sachet (bag),Beverages,6,₦300,"₦1,800",Cash,Chidinma E.
+30-Jul-2026,01:34 PM,PPM-20260730-0694,Fanta 50cl,Beverages,3,₦500,"₦1,500",Transfer,Grace U.
+30-Jul-2026,02:44 PM,PPM-20260730-0677,Pure Water Sachet (bag),Beverages,3,₦300,₦900,Transfer,Blessing O.
+30-Jul-2026,03:14 PM,PPM-20260730-0699,Eva Table Water 75cl,Beverages,1,₦200,₦200,Cash,Ifeanyi A.
+30-Jul-2026,03:36 PM,PPM-20260730-0702,Omo Detergent 1kg,Household,1,"₦2,200","₦2,200",Transfer,Chidinma E.
+30-Jul-2026,03:37 PM,PPM-20260730-0680,Bournvita 500g,Dairy & Beverages,3,"₦3,300","₦9,900",Cash,Ifeanyi A.
+30-Jul-2026,03:44 PM,PPM-20260730-0683,Gala Sausage Roll,Snacks,4,₦300,"₦1,200",POS,Grace U.
+30-Jul-2026,04:48 PM,PPM-20260730-0691,Dettol Soap,Toiletries,3,₦650,"₦1,950",Transfer,Blessing O.
+30-Jul-2026,05:38 PM,PPM-20260730-0675,Eggs (Crate of 30),Bakery/Fresh,2,"₦3,800","₦7,600",POS,Chidinma E.
+30-Jul-2026,05:47 PM,PPM-20260730-0671,Colgate Toothpaste 120ml,Toiletries,4,"₦1,100","₦4,400",Transfer,Chidinma E.
+30-Jul-2026,05:52 PM,PPM-20260730-0687,Five Alive Juice 1L,Beverages,1,"₦1,800","₦1,800",Cash,Chidinma E.
+30-Jul-2026,06:00 PM,PPM-20260730-0666,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Transfer,Blessing O.
+30-Jul-2026,06:23 PM,PPM-20260730-0698,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",Transfer,Grace U.
+30-Jul-2026,06:26 PM,PPM-20260730-0667,Golden Penny Spaghetti,Foodstuff,1,₦900,₦900,Cash,Grace U.
+30-Jul-2026,06:51 PM,PPM-20260730-0672,Sprite 50cl,Beverages,2,₦500,"₦1,000",Transfer,Blessing O.
+30-Jul-2026,06:55 PM,PPM-20260730-0689,Maggi Cubes (Pack),Foodstuff,1,₦700,₦700,Cash,Chidinma E.
+30-Jul-2026,07:12 PM,PPM-20260730-0700,Sunlight Detergent Powder 900g,Household,2,"₦1,900","₦3,800",POS,Chidinma E.
+30-Jul-2026,07:17 PM,PPM-20260730-0688,Dangote Salt 1kg,Foodstuff,1,₦500,₦500,POS,Chidinma E.
+30-Jul-2026,07:17 PM,PPM-20260730-0693,Maggi Cubes (Pack),Foodstuff,6,₦700,"₦4,200",Cash,Chidinma E.
+30-Jul-2026,07:27 PM,PPM-20260730-0668,Blue Band Butter 250g,Dairy & Beverages,1,"₦1,600","₦1,600",Transfer,Ifeanyi A.
+30-Jul-2026,08:05 PM,PPM-20260730-0678,Semovita 2kg,Foodstuff,3,"₦2,600","₦7,800",POS,Ifeanyi A.
+30-Jul-2026,08:29 PM,PPM-20260730-0684,Omo Detergent 1kg,Household,3,"₦2,200","₦6,600",Transfer,Blessing O.
+31-Jul-2026,07:46 AM,PPM-20260731-0711,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",POS,Blessing O.
+31-Jul-2026,07:59 AM,PPM-20260731-0720,Garri (Ijebu) 1 Paint,Foodstuff,2,"₦2,200","₦4,400",POS,Grace U.
+31-Jul-2026,08:34 AM,PPM-20260731-0726,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Cash,Blessing O.
+31-Jul-2026,08:40 AM,PPM-20260731-0723,Dettol Antiseptic 250ml,Household,1,"₦2,100","₦2,100",Transfer,Ifeanyi A.
+31-Jul-2026,08:42 AM,PPM-20260731-0732,Pure Water Sachet (bag),Beverages,3,₦300,₦900,Transfer,Ifeanyi A.
+31-Jul-2026,08:48 AM,PPM-20260731-0729,Dudu Osun Soap,Toiletries,1,₦500,₦500,Cash,Grace U.
+31-Jul-2026,08:59 AM,PPM-20260731-0712,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Transfer,Blessing O.
+31-Jul-2026,09:05 AM,PPM-20260731-0737,Golden Penny Spaghetti,Foodstuff,1,₦900,₦900,Transfer,Blessing O.
+31-Jul-2026,09:38 AM,PPM-20260731-0717,Titus Sardine (Can),Frozen/Provisions,3,₦900,"₦2,700",Transfer,Grace U.
+31-Jul-2026,09:53 AM,PPM-20260731-0730,Fanta 50cl,Beverages,2,₦500,"₦1,000",POS,Blessing O.
+31-Jul-2026,09:56 AM,PPM-20260731-0734,Mama Gold Rice 5kg,Foodstuff,2,"₦8,500","₦17,000",POS,Chidinma E.
+31-Jul-2026,10:19 AM,PPM-20260731-0719,Golden Penny Flour 2kg,Foodstuff,1,"₦2,400","₦2,400",Cash,Chidinma E.
+31-Jul-2026,10:49 AM,PPM-20260731-0731,Bigi Cola 50cl,Beverages,3,₦400,"₦1,200",Cash,Blessing O.
+31-Jul-2026,11:17 AM,PPM-20260731-0709,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Transfer,Ifeanyi A.
+31-Jul-2026,11:22 AM,PPM-20260731-0718,Peak Milk Powder 400g,Dairy & Beverages,2,"₦3,400","₦6,800",Transfer,Blessing O.
+31-Jul-2026,11:26 AM,PPM-20260731-0746,Rose Tissue Paper (Pack of 4),Toiletries,1,"₦1,500","₦1,500",Cash,Blessing O.
+31-Jul-2026,11:40 AM,PPM-20260731-0707,Cabin Biscuits (Pack),Snacks,1,₦200,₦200,POS,Ifeanyi A.
+31-Jul-2026,11:51 AM,PPM-20260731-0728,Maggi Cubes (Pack),Foodstuff,1,₦700,₦700,POS,Grace U.
+31-Jul-2026,12:14 PM,PPM-20260731-0714,Sprite 50cl,Beverages,5,₦500,"₦2,500",POS,Grace U.
+31-Jul-2026,12:32 PM,PPM-20260731-0706,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,POS,Grace U.
+31-Jul-2026,01:00 PM,PPM-20260731-0735,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,POS,Blessing O.
+31-Jul-2026,01:00 PM,PPM-20260731-0727,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Cash,Blessing O.
+31-Jul-2026,01:15 PM,PPM-20260731-0722,Pure Water Sachet (bag),Beverages,4,₦300,"₦1,200",POS,Grace U.
+31-Jul-2026,01:28 PM,PPM-20260731-0725,Bigi Cola 50cl,Beverages,1,₦400,₦400,POS,Grace U.
+31-Jul-2026,01:58 PM,PPM-20260731-0708,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",Cash,Ifeanyi A.
+31-Jul-2026,02:24 PM,PPM-20260731-0745,Vaseline Petroleum Jelly 100ml,Toiletries,3,"₦1,300","₦3,900",Transfer,Grace U.
+31-Jul-2026,02:36 PM,PPM-20260731-0741,Cerelac Baby Food 400g,Baby Products,2,"₦3,600","₦7,200",Transfer,Ifeanyi A.
+31-Jul-2026,04:23 PM,PPM-20260731-0744,Colgate Toothpaste 120ml,Toiletries,4,"₦1,100","₦4,400",Transfer,Ifeanyi A.
+31-Jul-2026,04:36 PM,PPM-20260731-0705,Beans (Oloyin) 1 Paint,Foodstuff,3,"₦3,500","₦10,500",Transfer,Chidinma E.
+31-Jul-2026,05:16 PM,PPM-20260731-0740,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Grace U.
+31-Jul-2026,05:22 PM,PPM-20260731-0739,Garri (Ijebu) 1 Paint,Foodstuff,2,"₦2,200","₦4,400",POS,Chidinma E.
+31-Jul-2026,05:47 PM,PPM-20260731-0733,Frozen Chicken (per kg),Frozen/Provisions,1,"₦4,500","₦4,500",Transfer,Blessing O.
+31-Jul-2026,05:50 PM,PPM-20260731-0738,Fanta 50cl,Beverages,2,₦500,"₦1,000",Cash,Chidinma E.
+31-Jul-2026,06:01 PM,PPM-20260731-0715,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",POS,Ifeanyi A.
+31-Jul-2026,06:05 PM,PPM-20260731-0713,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Chidinma E.
+31-Jul-2026,06:06 PM,PPM-20260731-0703,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Ifeanyi A.
+31-Jul-2026,06:08 PM,PPM-20260731-0747,Milo 500g,Dairy & Beverages,1,"₦3,200","₦3,200",POS,Chidinma E.
+31-Jul-2026,06:26 PM,PPM-20260731-0724,Mama Gold Rice 5kg,Foodstuff,3,"₦8,500","₦25,500",POS,Chidinma E.
+31-Jul-2026,06:34 PM,PPM-20260731-0743,Peak Milk Powder 400g,Dairy & Beverages,2,"₦3,400","₦6,800",Transfer,Grace U.
+31-Jul-2026,06:38 PM,PPM-20260731-0721,Caprice Rice 5kg,Foodstuff,3,"₦8,200","₦24,600",POS,Ifeanyi A.
+31-Jul-2026,06:58 PM,PPM-20260731-0742,Colgate Toothpaste 120ml,Toiletries,1,"₦1,100","₦1,100",Transfer,Blessing O.
+31-Jul-2026,07:16 PM,PPM-20260731-0704,Semovita 2kg,Foodstuff,2,"₦2,600","₦5,200",Cash,Blessing O.
+31-Jul-2026,07:47 PM,PPM-20260731-0710,Digestive Biscuits,Snacks,3,"₦1,200","₦3,600",Transfer,Grace U.
+31-Jul-2026,07:59 PM,PPM-20260731-0716,Gala Sausage Roll,Snacks,2,₦300,₦600,Transfer,Chidinma E.
+31-Jul-2026,08:37 PM,PPM-20260731-0736,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",POS,Chidinma E.
+01-Aug-2026,08:24 AM,PPM-20260801-0789,Cabin Biscuits (Pack),Snacks,3,₦200,₦600,POS,Chidinma E.
+01-Aug-2026,08:25 AM,PPM-20260801-0763,Pure Water Sachet (bag),Beverages,4,₦300,"₦1,200",POS,Blessing O.
+01-Aug-2026,08:35 AM,PPM-20260801-0788,Cabin Biscuits (Pack),Snacks,4,₦200,₦800,Cash,Ifeanyi A.
+01-Aug-2026,08:39 AM,PPM-20260801-0751,Harpic Toilet Cleaner 500ml,Household,3,"₦1,800","₦5,400",Transfer,Blessing O.
+01-Aug-2026,08:50 AM,PPM-20260801-0755,Sunlight Bar Soap,Toiletries,2,₦450,₦900,Transfer,Ifeanyi A.
+01-Aug-2026,08:59 AM,PPM-20260801-0785,Cerelac Baby Food 400g,Baby Products,3,"₦3,600","₦10,800",Cash,Grace U.
+01-Aug-2026,09:01 AM,PPM-20260801-0794,Eva Table Water 75cl,Beverages,4,₦200,₦800,Cash,Grace U.
+01-Aug-2026,09:01 AM,PPM-20260801-0796,Bigi Cola 50cl,Beverages,1,₦400,₦400,POS,Ifeanyi A.
+01-Aug-2026,09:04 AM,PPM-20260801-0793,Hollandia Yoghurt 1L,Dairy & Beverages,2,"₦2,200","₦4,400",Transfer,Blessing O.
+01-Aug-2026,09:16 AM,PPM-20260801-0762,Sprite 50cl,Beverages,2,₦500,"₦1,000",POS,Chidinma E.
+01-Aug-2026,09:28 AM,PPM-20260801-0778,Coca-Cola 50cl,Beverages,3,₦500,"₦1,500",Cash,Chidinma E.
+01-Aug-2026,09:34 AM,PPM-20260801-0791,Bournvita 500g,Dairy & Beverages,1,"₦3,300","₦3,300",POS,Chidinma E.
+01-Aug-2026,09:52 AM,PPM-20260801-0764,Vaseline Petroleum Jelly 100ml,Toiletries,3,"₦1,300","₦3,900",POS,Blessing O.
+01-Aug-2026,10:33 AM,PPM-20260801-0752,Ambipur Air Freshener,Household,1,"₦2,500","₦2,500",Cash,Chidinma E.
+01-Aug-2026,10:43 AM,PPM-20260801-0776,Golden Penny Flour 2kg,Foodstuff,5,"₦2,400","₦12,000",Cash,Blessing O.
+01-Aug-2026,11:03 AM,PPM-20260801-0787,Nivea Roll-on Deodorant,Beauty,6,"₦1,900","₦11,400",Cash,Grace U.
+01-Aug-2026,11:14 AM,PPM-20260801-0760,Nivea Roll-on Deodorant,Beauty,1,"₦1,900","₦1,900",POS,Blessing O.
+01-Aug-2026,11:26 AM,PPM-20260801-0800,Rose Tissue Paper (Pack of 4),Toiletries,1,"₦1,500","₦1,500",POS,Chidinma E.
+01-Aug-2026,12:08 PM,PPM-20260801-0770,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Cash,Blessing O.
+01-Aug-2026,12:20 PM,PPM-20260801-0774,Dettol Soap,Toiletries,2,₦650,"₦1,300",Transfer,Blessing O.
+01-Aug-2026,12:22 PM,PPM-20260801-0786,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",Transfer,Chidinma E.
+01-Aug-2026,12:36 PM,PPM-20260801-0768,Fanta 50cl,Beverages,2,₦500,"₦1,000",Cash,Chidinma E.
+01-Aug-2026,12:48 PM,PPM-20260801-0805,Nivea Body Lotion 400ml,Beauty,1,"₦3,500","₦3,500",POS,Chidinma E.
+01-Aug-2026,12:52 PM,PPM-20260801-0775,Omo Detergent 1kg,Household,1,"₦2,200","₦2,200",Transfer,Chidinma E.
+01-Aug-2026,12:57 PM,PPM-20260801-0780,Dudu Osun Soap,Toiletries,3,₦500,"₦1,500",Transfer,Ifeanyi A.
+01-Aug-2026,01:10 PM,PPM-20260801-0799,Eva Table Water 75cl,Beverages,1,₦200,₦200,Cash,Grace U.
+01-Aug-2026,01:19 PM,PPM-20260801-0790,Indomie Noodles (Pack of 40),Foodstuff,2,"₦5,800","₦11,600",Transfer,Grace U.
+01-Aug-2026,01:27 PM,PPM-20260801-0771,Bournvita 500g,Dairy & Beverages,1,"₦3,300","₦3,300",POS,Chidinma E.
+01-Aug-2026,01:36 PM,PPM-20260801-0772,St. Louis Sugar 1kg,Foodstuff,1,"₦1,500","₦1,500",Transfer,Chidinma E.
+01-Aug-2026,01:40 PM,PPM-20260801-0750,Baby Wipes (Pack),Baby Products,4,"₦1,800","₦7,200",Transfer,Grace U.
+01-Aug-2026,01:43 PM,PPM-20260801-0773,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Transfer,Blessing O.
+01-Aug-2026,01:49 PM,PPM-20260801-0802,Gala Sausage Roll,Snacks,4,₦300,"₦1,200",Transfer,Grace U.
+01-Aug-2026,02:08 PM,PPM-20260801-0792,Garri (Ijebu) 1 Paint,Foodstuff,3,"₦2,200","₦6,600",POS,Chidinma E.
+01-Aug-2026,02:15 PM,PPM-20260801-0753,Peak Milk Powder 400g,Dairy & Beverages,1,"₦3,400","₦3,400",Transfer,Chidinma E.
+01-Aug-2026,02:38 PM,PPM-20260801-0798,Dettol Soap,Toiletries,2,₦650,"₦1,300",POS,Ifeanyi A.
+01-Aug-2026,03:48 PM,PPM-20260801-0779,Oral-B Toothbrush,Toiletries,1,₦600,₦600,Transfer,Chidinma E.
+01-Aug-2026,03:53 PM,PPM-20260801-0748,St. Louis Sugar 1kg,Foodstuff,1,"₦1,500","₦1,500",POS,Ifeanyi A.
+01-Aug-2026,04:05 PM,PPM-20260801-0784,Pringles Chips,Snacks,2,"₦2,500","₦5,000",Cash,Grace U.
+01-Aug-2026,04:14 PM,PPM-20260801-0797,Agege Bread (Loaf),Bakery,2,"₦1,200","₦2,400",Cash,Blessing O.
+01-Aug-2026,04:52 PM,PPM-20260801-0757,Gala Sausage Roll,Snacks,2,₦300,₦600,Cash,Chidinma E.
+01-Aug-2026,04:59 PM,PPM-20260801-0756,Hollandia Yoghurt 1L,Dairy & Beverages,2,"₦2,200","₦4,400",POS,Ifeanyi A.
+01-Aug-2026,05:00 PM,PPM-20260801-0749,Fanta 50cl,Beverages,1,₦500,₦500,POS,Grace U.
+01-Aug-2026,05:14 PM,PPM-20260801-0783,Coca-Cola 50cl,Beverages,4,₦500,"₦2,000",Transfer,Blessing O.
+01-Aug-2026,05:18 PM,PPM-20260801-0759,Golden Penny Flour 2kg,Foodstuff,1,"₦2,400","₦2,400",Cash,Chidinma E.
+01-Aug-2026,05:36 PM,PPM-20260801-0765,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Cash,Blessing O.
+01-Aug-2026,05:38 PM,PPM-20260801-0767,Gala Sausage Roll,Snacks,1,₦300,₦300,Cash,Grace U.
+01-Aug-2026,05:58 PM,PPM-20260801-0782,Fanta 50cl,Beverages,3,₦500,"₦1,500",Transfer,Blessing O.
+01-Aug-2026,06:02 PM,PPM-20260801-0804,Milo 500g,Dairy & Beverages,2,"₦3,200","₦6,400",POS,Grace U.
+01-Aug-2026,06:39 PM,PPM-20260801-0781,Amstel Malta 33cl,Beverages,1,₦600,₦600,Cash,Blessing O.
+01-Aug-2026,06:49 PM,PPM-20260801-0754,Cerelac Baby Food 400g,Baby Products,2,"₦3,600","₦7,200",Transfer,Grace U.
+01-Aug-2026,06:52 PM,PPM-20260801-0795,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,Transfer,Ifeanyi A.
+01-Aug-2026,06:58 PM,PPM-20260801-0761,Omo Detergent 1kg,Household,5,"₦2,200","₦11,000",Transfer,Chidinma E.
+01-Aug-2026,06:59 PM,PPM-20260801-0758,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Cash,Grace U.
+01-Aug-2026,07:27 PM,PPM-20260801-0766,Pampers Diapers (Pack),Baby Products,1,"₦6,500","₦6,500",POS,Blessing O.
+01-Aug-2026,07:28 PM,PPM-20260801-0801,Rose Tissue Paper (Pack of 4),Toiletries,1,"₦1,500","₦1,500",Transfer,Ifeanyi A.
+01-Aug-2026,07:36 PM,PPM-20260801-0803,Vaseline Petroleum Jelly 100ml,Toiletries,1,"₦1,300","₦1,300",Transfer,Blessing O.
+01-Aug-2026,08:28 PM,PPM-20260801-0769,Bigi Cola 50cl,Beverages,3,₦400,"₦1,200",Transfer,Blessing O.
+01-Aug-2026,08:59 PM,PPM-20260801-0777,Sprite 50cl,Beverages,1,₦500,₦500,POS,Ifeanyi A.
+02-Aug-2026,07:29 AM,PPM-20260802-0809,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",POS,Chidinma E.
+02-Aug-2026,07:40 AM,PPM-20260802-0828,Titus Sardine (Can),Frozen/Provisions,1,₦900,₦900,Cash,Chidinma E.
+02-Aug-2026,08:11 AM,PPM-20260802-0820,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",POS,Chidinma E.
+02-Aug-2026,08:27 AM,PPM-20260802-0822,Golden Penny Spaghetti,Foodstuff,1,₦900,₦900,Transfer,Ifeanyi A.
+02-Aug-2026,08:46 AM,PPM-20260802-0824,Dudu Osun Soap,Toiletries,2,₦500,"₦1,000",Transfer,Blessing O.
+02-Aug-2026,09:28 AM,PPM-20260802-0811,Lux Soap,Toiletries,1,₦550,₦550,Transfer,Grace U.
+02-Aug-2026,09:37 AM,PPM-20260802-0808,Sprite 50cl,Beverages,2,₦500,"₦1,000",POS,Chidinma E.
+02-Aug-2026,11:50 AM,PPM-20260802-0830,Coca-Cola 50cl,Beverages,1,₦500,₦500,Cash,Ifeanyi A.
+02-Aug-2026,12:02 PM,PPM-20260802-0821,Titus Sardine (Can),Frozen/Provisions,3,₦900,"₦2,700",POS,Ifeanyi A.
+02-Aug-2026,12:09 PM,PPM-20260802-0819,Eva Table Water 75cl,Beverages,1,₦200,₦200,Cash,Ifeanyi A.
+02-Aug-2026,12:25 PM,PPM-20260802-0831,Omo Detergent 1kg,Household,1,"₦2,200","₦2,200",Transfer,Blessing O.
+02-Aug-2026,12:41 PM,PPM-20260802-0810,Digestive Biscuits,Snacks,1,"₦1,200","₦1,200",POS,Chidinma E.
+02-Aug-2026,01:19 PM,PPM-20260802-0814,Eva Table Water 75cl,Beverages,3,₦200,₦600,POS,Grace U.
+02-Aug-2026,01:21 PM,PPM-20260802-0829,Ariel Detergent 1kg,Household,6,"₦2,300","₦13,800",Transfer,Chidinma E.
+02-Aug-2026,01:26 PM,PPM-20260802-0817,Pure Water Sachet (bag),Beverages,2,₦300,₦600,Cash,Blessing O.
+02-Aug-2026,01:40 PM,PPM-20260802-0833,Ariel Detergent 1kg,Household,2,"₦2,300","₦4,600",POS,Ifeanyi A.
+02-Aug-2026,02:09 PM,PPM-20260802-0807,Eggs (Crate of 30),Bakery/Fresh,1,"₦3,800","₦3,800",POS,Grace U.
+02-Aug-2026,02:11 PM,PPM-20260802-0827,Milo 500g,Dairy & Beverages,2,"₦3,200","₦6,400",Transfer,Ifeanyi A.
+02-Aug-2026,02:51 PM,PPM-20260802-0816,Coca-Cola 50cl,Beverages,2,₦500,"₦1,000",Transfer,Grace U.
+02-Aug-2026,03:42 PM,PPM-20260802-0813,Omo Detergent 1kg,Household,5,"₦2,200","₦11,000",Cash,Chidinma E.
+02-Aug-2026,04:10 PM,PPM-20260802-0812,Vaseline Petroleum Jelly 100ml,Toiletries,6,"₦1,300","₦7,800",Transfer,Blessing O.
+02-Aug-2026,04:35 PM,PPM-20260802-0818,Five Alive Juice 1L,Beverages,2,"₦1,800","₦3,600",POS,Blessing O.
+02-Aug-2026,04:59 PM,PPM-20260802-0826,Mama Gold Rice 5kg,Foodstuff,2,"₦8,500","₦17,000",Transfer,Grace U.
+02-Aug-2026,06:18 PM,PPM-20260802-0806,Golden Penny Flour 2kg,Foodstuff,4,"₦2,400","₦9,600",Cash,Ifeanyi A.
+02-Aug-2026,06:59 PM,PPM-20260802-0832,Ambipur Air Freshener,Household,1,"₦2,500","₦2,500",Transfer,Grace U.
+02-Aug-2026,07:03 PM,PPM-20260802-0834,Groundnut Oil 1L (bottle),Foodstuff,4,"₦2,800","₦11,200",Transfer,Ifeanyi A.
+02-Aug-2026,07:12 PM,PPM-20260802-0815,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Transfer,Ifeanyi A.
+02-Aug-2026,07:21 PM,PPM-20260802-0823,Dangote Salt 1kg,Foodstuff,1,₦500,₦500,Transfer,Chidinma E.
+02-Aug-2026,07:45 PM,PPM-20260802-0825,St. Louis Sugar 1kg,Foodstuff,3,"₦1,500","₦4,500",Transfer,Ifeanyi A.
+03-Aug-2026,08:03 AM,PPM-20260803-0849,Dangote Salt 1kg,Foodstuff,3,₦500,"₦1,500",Transfer,Chidinma E.
+03-Aug-2026,08:56 AM,PPM-20260803-0838,Sunlight Bar Soap,Toiletries,1,₦450,₦450,Transfer,Ifeanyi A.
+03-Aug-2026,09:08 AM,PPM-20260803-0870,Indomie Noodles (Pack of 40),Foodstuff,1,"₦5,800","₦5,800",Transfer,Ifeanyi A.
+03-Aug-2026,09:30 AM,PPM-20260803-0858,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Cash,Chidinma E.
+03-Aug-2026,09:39 AM,PPM-20260803-0846,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Transfer,Chidinma E.
+03-Aug-2026,09:50 AM,PPM-20260803-0839,Pure Water Sachet (bag),Beverages,1,₦300,₦300,POS,Blessing O.
+03-Aug-2026,10:08 AM,PPM-20260803-0863,Blue Band Butter 250g,Dairy & Beverages,1,"₦1,600","₦1,600",Transfer,Blessing O.
+03-Aug-2026,11:20 AM,PPM-20260803-0845,Garri (Ijebu) 1 Paint,Foodstuff,1,"₦2,200","₦2,200",Transfer,Blessing O.
+03-Aug-2026,11:45 AM,PPM-20260803-0847,Bournvita 500g,Dairy & Beverages,2,"₦3,300","₦6,600",Cash,Chidinma E.
+03-Aug-2026,12:20 PM,PPM-20260803-0869,Pure Water Sachet (bag),Beverages,3,₦300,₦900,Transfer,Grace U.
+03-Aug-2026,12:36 PM,PPM-20260803-0865,Pure Water Sachet (bag),Beverages,3,₦300,₦900,POS,Ifeanyi A.
+03-Aug-2026,12:55 PM,PPM-20260803-0842,Pure Water Sachet (bag),Beverages,1,₦300,₦300,Cash,Ifeanyi A.
+03-Aug-2026,01:14 PM,PPM-20260803-0853,Dettol Soap,Toiletries,3,₦650,"₦1,950",Cash,Ifeanyi A.
+03-Aug-2026,01:18 PM,PPM-20260803-0864,Rose Tissue Paper (Pack of 4),Toiletries,3,"₦1,500","₦4,500",Transfer,Grace U.
+03-Aug-2026,01:22 PM,PPM-20260803-0855,Kings Vegetable Oil 3L,Foodstuff,1,"₦7,200","₦7,200",Transfer,Chidinma E.
+03-Aug-2026,01:29 PM,PPM-20260803-0873,Sprite 50cl,Beverages,2,₦500,"₦1,000",POS,Grace U.
+03-Aug-2026,01:32 PM,PPM-20260803-0840,Golden Penny Flour 2kg,Foodstuff,1,"₦2,400","₦2,400",Cash,Grace U.
+03-Aug-2026,01:52 PM,PPM-20260803-0874,Eggs (Crate of 30),Bakery/Fresh,2,"₦3,800","₦7,600",Transfer,Chidinma E.
+03-Aug-2026,03:32 PM,PPM-20260803-0856,Mama Gold Rice 5kg,Foodstuff,1,"₦8,500","₦8,500",Transfer,Blessing O.
+03-Aug-2026,03:52 PM,PPM-20260803-0861,Agege Bread (Loaf),Bakery,2,"₦1,200","₦2,400",Cash,Grace U.
+03-Aug-2026,04:05 PM,PPM-20260803-0843,Baby Wipes (Pack),Baby Products,3,"₦1,800","₦5,400",Transfer,Blessing O.
+03-Aug-2026,04:44 PM,PPM-20260803-0850,Sunlight Bar Soap,Toiletries,4,₦450,"₦1,800",Transfer,Ifeanyi A.
+03-Aug-2026,04:55 PM,PPM-20260803-0837,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",POS,Ifeanyi A.
+03-Aug-2026,05:42 PM,PPM-20260803-0854,Plantain Chips (Pack),Snacks,1,₦500,₦500,POS,Ifeanyi A.
+03-Aug-2026,05:42 PM,PPM-20260803-0851,Garri (Ijebu) 1 Paint,Foodstuff,4,"₦2,200","₦8,800",Transfer,Grace U.
+03-Aug-2026,05:51 PM,PPM-20260803-0835,Peak Evaporated Milk 170g Tin,Dairy & Beverages,1,₦650,₦650,POS,Ifeanyi A.
+03-Aug-2026,05:58 PM,PPM-20260803-0866,Pampers Diapers (Pack),Baby Products,5,"₦6,500","₦32,500",POS,Blessing O.
+03-Aug-2026,06:01 PM,PPM-20260803-0844,Sprite 50cl,Beverages,3,₦500,"₦1,500",POS,Chidinma E.
+03-Aug-2026,06:09 PM,PPM-20260803-0841,Colgate Toothpaste 120ml,Toiletries,2,"₦1,100","₦2,200",POS,Chidinma E.
+03-Aug-2026,06:21 PM,PPM-20260803-0836,Fanta 50cl,Beverages,1,₦500,₦500,Transfer,Chidinma E.
+03-Aug-2026,06:27 PM,PPM-20260803-0859,Harpic Toilet Cleaner 500ml,Household,2,"₦1,800","₦3,600",POS,Chidinma E.
+03-Aug-2026,06:34 PM,PPM-20260803-0857,Garri (Ijebu) 1 Paint,Foodstuff,2,"₦2,200","₦4,400",Transfer,Grace U.
+03-Aug-2026,06:44 PM,PPM-20260803-0852,Agege Bread (Loaf),Bakery,1,"₦1,200","₦1,200",Cash,Ifeanyi A.
+03-Aug-2026,06:45 PM,PPM-20260803-0860,Amstel Malta 33cl,Beverages,3,₦600,"₦1,800",POS,Blessing O.
+03-Aug-2026,06:49 PM,PPM-20260803-0862,Fanta 50cl,Beverages,1,₦500,₦500,Transfer,Grace U.
+03-Aug-2026,07:34 PM,PPM-20260803-0848,Amstel Malta 33cl,Beverages,1,₦600,₦600,Cash,Blessing O.
+03-Aug-2026,07:42 PM,PPM-20260803-0872,Blue Band Butter 250g,Dairy & Beverages,1,"₦1,600","₦1,600",POS,Chidinma E.
+03-Aug-2026,07:54 PM,PPM-20260803-0867,Eggs (Crate of 30),Bakery/Fresh,2,"₦3,800","₦7,600",Cash,Blessing O.
+03-Aug-2026,08:07 PM,PPM-20260803-0868,Coca-Cola 50cl,Beverages,2,₦500,"₦1,000",Cash,Blessing O.
+03-Aug-2026,08:42 PM,PPM-20260803-0871,Ambipur Air Freshener,Household,1,"₦2,500","₦2,500",Cash,Blessing O.
